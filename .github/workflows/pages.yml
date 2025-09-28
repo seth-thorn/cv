@@ -27,22 +27,34 @@ jobs:
           source: ./
           destination: ./_site
 
-      # Create cv.pdf from the built HTML using headless Chromium
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      # Make _site writable (so the PDF write doesn't EACCES)
+      - run: chmod -R u+w _site
+
+      # One compact step: install puppeteer (no package.json), render to /tmp, move to _site
+      - uses: actions/setup-node@v4
         with:
           node-version: "20"
-
-      - name: Install Puppeteer
+      - name: Render PDF
         run: |
-          npm init -y
-          npm install puppeteer
+          npm i puppeteer --no-save
+          node - <<'NODE'
+          const puppeteer = require('puppeteer');
+          (async () => {
+            const browser = await puppeteer.launch({ args: ['--no-sandbox','--disable-setuid-sandbox'] });
+            const page = await browser.newPage();
+            const url = 'file://' + process.cwd() + '/_site/index.html';
+            await page.goto(url, { waitUntil: 'networkidle0' });
+            await page.pdf({
+              path: '/tmp/cv.pdf',
+              format: 'Letter',
+              margin: { top: '1in', right: '1in', bottom: '1in', left: '1in' },
+              printBackground: true
+            });
+            await browser.close();
+          })();
+          NODE
+          mv /tmp/cv.pdf _site/cv.pdf
 
-      - name: Render PDF with Puppeteer
-        run: |
-          node -e "const p=require('puppeteer');(async()=>{const b=await p.launch({args:['--no-sandbox','--disable-setuid-sandbox']});const page=await b.newPage();await page.goto('file://' + process.cwd() + '/_site/index.html',{waitUntil:'networkidle0'});await page.pdf({path:'_site/cv.pdf',format:'Letter',margin:{top:'1in',bottom:'1in',left:'1in',right:'1in'},printBackground:true});await b.close();})();"
-
-      # Publish everything in _site (including cv.pdf)
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
