@@ -41,7 +41,10 @@ jobs:
             const browser = await puppeteer.launch({ args: ['--no-sandbox','--disable-setuid-sandbox'] });
             const page = await browser.newPage();
             await page.goto('file://' + process.cwd() + '/_site/index.html', { waitUntil: 'networkidle0' });
-            await page.emulateMediaType('print');  // force @media print rules in your cv.html
+
+            // Force @media print rules from _layouts/cv.html
+            await page.emulateMediaType('print');
+
             await page.pdf({
               path: '/tmp/cv.pdf',
               format: 'Letter',
@@ -54,7 +57,7 @@ jobs:
           })();
           NODE
 
-      # 3) Copy read-only _site into writable folder and drop the PDF in
+      # 3) Copy read-only _site into a writable folder and inject the PDF
       - name: Assemble publish folder
         run: |
           rm -rf site_out
@@ -65,14 +68,4 @@ jobs:
       # 4) Upload for Pages deploy
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: ./site_out
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          path: ./site_out_
