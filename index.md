@@ -1,7 +1,6 @@
 ---
 layout: cv
-title: "Curriculum Vitae — Seth D. Thorn, PhD"
-subtitle: "Assistant Professor, Interactive Media · The GAME School, Arizona State University"
+title: "Seth D. Thorn — Curriculum Vitae"
 ---
 
 **External Profiles**  
