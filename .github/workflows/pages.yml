@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: "pages"
   cancel-in-progress: true
 
 jobs:
@@ -19,10 +19,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      # Required for Pages
+      - uses: actions/configure-pages@v5
+
+      # Build the Jekyll site into ./_site
       - uses: actions/jekyll-build-pages@v1
         with:
-          source: .
+          source: ./
           destination: ./_site
+
+      # Build PDF from index.md with Pandoc (Docker)
+      - name: Build PDF with Pandoc
+        run: |
+          docker run --rm -v "${GITHUB_WORKSPACE}:/data" pandoc/latex \
+            -V geometry:margin=1in -V urlcolor=black \
+            -s index.md -o cv.pdf
+          mkdir -p _site
+          mv cv.pdf _site/cv.pdf
+
+      # Upload the site (including cv.pdf) as the artifact to deploy
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
@@ -30,6 +46,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
