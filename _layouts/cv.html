@@ -5,30 +5,77 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} | {{ site.title }}</title>
   {%- seo -%}
+
+  <!-- Screen styles (unchanged visual design) -->
   <style>
     :root { --fg:#111; --muted:#555; --rule:#ddd; --accent:#222; }
     html { font-size: 16px; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Noto Sans", "Apple Color Emoji","Segoe UI Emoji"; color: var(--fg); line-height: 1.5; margin: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Noto Sans",
+                   "Apple Color Emoji","Segoe UI Emoji";
+      color: var(--fg);
+      line-height: 1.5;
+      margin: 0;
+    }
     main { max-width: 900px; margin: 2rem auto; padding: 0 1.2rem 4rem; }
+    header { border-bottom:1px solid var(--rule); padding-bottom:.75rem; }
     h1,h2,h3 { line-height: 1.2; margin: 1.2rem 0 0.6rem; }
     h1 { font-size: 1.9rem; }
-    h2 { font-size: 1.35rem; border-top:1px solid var(--rule); padding-top: .75rem; margin-top: 1.6rem; }
-    h3 { font-size: 1.05rem; color: var(--accent); margin-top: 1rem; }
-    .lead { margin-top: .25rem; color: var(--muted); }
-    ul { margin: .25rem 0 1rem 1.2rem; }
-    li { margin: .2rem 0; }
+    h2 { font-size: 1.35rem; border-top:1px solid var(--rule); padding-top:.75rem; margin-top:1.6rem; }
+    h3 { font-size: 1.05rem; color: var(--accent); margin-top:1rem; }
+    .lead { margin-top:.25rem; color: var(--muted); }
+    ul { margin:.25rem 0 1rem 1.2rem; padding:0; }
+    li { margin:.2rem 0; }
     .muted { color: var(--muted); }
-    .sm { font-size: .95rem; }
-    header { border-bottom:1px solid var(--rule); padding-bottom: .75rem; }
-    .updated { margin-top: 2rem; font-size: .9rem; color: var(--muted); }
+    .sm { font-size:.95rem; }
+    .updated { margin-top:2rem; font-size:.9rem; color: var(--muted); }
+  </style>
+
+  <!-- PRINT OVERRIDES: inline so headless renderers (Puppeteer) cannot miss them -->
+  <style>
     @media print {
-      a { color: black; text-decoration: none; }
-      header { border: 0; padding: 0; }
-      h2 { border: 0; padding-top: 0; }
-      .updated { display: none; }
-      @page { margin: 1in; }
+      /* Page & base text */
+      @page { size: Letter; margin: 0.65in; }
+      html, body { font-size: 12px; line-height: 1.35; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+      /* Single column, no decorative borders/boxes */
+      main, .wrapper, .page-content, article, .post, .post-content {
+        max-width: none !important; width: auto !important; margin: 0 !important; padding: 0 !important;
+        background: transparent !important; border: 0 !important; box-shadow: none !important;
+      }
+      header { border: 0 !important; padding: 0 0 .2in 0 !important; }
+      .updated, .site-header, .site-footer { display: none !important; }
+
+      /* Kill backgrounds/borders that become “big boxes” in print */
+      *, *::before, *::after {
+        background: transparent !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+      }
+      pre, code, .highlight, blockquote {
+        background: none !important; border: 0 !important; padding: 0 !important; margin: 0 !important;
+      }
+      hr { border: 0; height: 0; margin: 8px 0; }
+
+      /* Type scale & spacing for print */
+      h1 { font-size: 20px; margin: 0 0 6px; }
+      h2 { font-size: 15px; margin: 10px 0 4px; padding-top: 0; border: 0; }
+      h3 { font-size: 13px; margin: 8px 0 2px; color: #000 !important; }
+
+      /* Lists compact and keep items intact */
+      ul { margin: 2px 0 6px 1.1rem; padding: 0; }
+      li { margin: 1px 0; page-break-inside: avoid; }
+
+      /* Avoid awkward breaks */
+      h1, h2, h3 { page-break-after: avoid; }
+      p { orphans: 3; widows: 3; }
+
+      /* Links look clean in print */
+      a { color: #000 !important; text-decoration: none !important; }
     }
   </style>
+
+  <!-- Optional: external print.css (kept if you want to tweak without touching this file) -->
   <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
 </head>
 <body>
