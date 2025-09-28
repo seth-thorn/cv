@@ -1,0 +1,17 @@
+name: Generate CV PDF artifact
+on:
+  push: { branches: ["main"] }
+  workflow_dispatch:
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build PDF with Pandoc (Docker)
+        run: |
+          docker run --rm -v "${{ github.workspace }}:/data" pandoc/latex \
+            -V geometry:margin=1in -V urlcolor=black -s index.md -o cv.pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cv-pdf
+          path: cv.pdf
