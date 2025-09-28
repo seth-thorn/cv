@@ -21,20 +21,18 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
 
-      # Build the Jekyll site into ./_site
+      # Build Jekyll site -> _site (read-only, that's fine)
       - uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
 
-      # Make _site writable (so the PDF write doesn't EACCES)
-      - run: chmod -R u+w _site
-
-      # One compact step: install puppeteer (no package.json), render to /tmp, move to _site
+      # Node + Puppeteer to print HTML to PDF (write to /tmp, not _site)
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Render PDF
+
+      - name: Render PDF with Puppeteer (to /tmp)
         run: |
           npm i puppeteer --no-save
           node - <<'NODE'
@@ -53,11 +51,19 @@ jobs:
             await browser.close();
           })();
           NODE
-          mv /tmp/cv.pdf _site/cv.pdf
 
+      # Make a writable copy of the site and inject the PDF
+      - name: Assemble publish folder
+        run: |
+          rm -rf site_out
+          mkdir -p site_out
+          cp -a _site/. site_out/
+          mv /tmp/cv.pdf site_out/cv.pdf
+
+      # Upload everything in site_out (includes cv.pdf)
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_site
+          path: ./site_out
 
   deploy:
     environment:
