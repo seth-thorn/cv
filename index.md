@@ -195,4 +195,4 @@ subtitle: "Assistant Professor, Interactive Media · The GAME School, Arizona St
 - 2023 — ACM TEI  
 - 2023 — 4th Intl Symposium on Internet of Sounds  
 - 2023 — Einstein Foundation (Berlin)  
-- 2022 — ACM Movement and Computing 
+- 2022 — ACM Movement and Computing  
