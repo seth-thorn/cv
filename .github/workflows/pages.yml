@@ -20,20 +20,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+
+      # Build the Jekyll site into ./_site
       - uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
 
-      # Build PDF and place it in the published site
-      - name: Build PDF with Pandoc
-        run: |
-          docker run --rm -v "${GITHUB_WORKSPACE}:/data" pandoc/latex \
-            -V geometry:margin=1in -V urlcolor=black \
-            -s index.md -o cv.pdf
-          mkdir -p _site
-          mv cv.pdf _site/cv.pdf
+      # Create cv.pdf from the built HTML using headless Chromium
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
+      - name: Install Puppeteer
+        run: |
+          npm init -y
+          npm install puppeteer
+
+      - name: Render PDF with Puppeteer
+        run: |
+          node -e "const p=require('puppeteer');(async()=>{const b=await p.launch({args:['--no-sandbox','--disable-setuid-sandbox']});const page=await b.newPage();await page.goto('file://' + process.cwd() + '/_site/index.html',{waitUntil:'networkidle0'});await page.pdf({path:'_site/cv.pdf',format:'Letter',margin:{top:'1in',bottom:'1in',left:'1in',right:'1in'},printBackground:true});await b.close();})();"
+
+      # Publish everything in _site (including cv.pdf)
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
