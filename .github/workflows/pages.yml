@@ -42,35 +42,9 @@ jobs:
             const page = await browser.newPage();
             const url = 'file://' + process.cwd() + '/_site/index.html';
             await page.goto(url, { waitUntil: 'networkidle0' });
+
+            // Force @media print rules from your cv.html
+            await page.emulateMediaType('print');
+
             await page.pdf({
               path: '/tmp/cv.pdf',
-              format: 'Letter',
-              margin: { top: '1in', right: '1in', bottom: '1in', left: '1in' },
-              printBackground: true
-            });
-            await browser.close();
-          })();
-          NODE
-
-      # Make a writable copy of the site and inject the PDF
-      - name: Assemble publish folder
-        run: |
-          rm -rf site_out
-          mkdir -p site_out
-          cp -a _site/. site_out/
-          mv /tmp/cv.pdf site_out/cv.pdf
-
-      # Upload everything in site_out (includes cv.pdf)
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./site_out
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
