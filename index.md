@@ -154,4 +154,4 @@ subtitle: "Assistant Professor, Interactive Media · The GAME School, Arizona St
 - 2024–present — Graduate Curriculum Committee (Herberger Institute) · 2023–present — Edson E+I Entrepreneurship Liaison  
 - 2022–2025 — Research Committee (Herberger Institute) · 2021–2024 — Research Council (AME rep)  
 - 2022–present — Faculty Advisor, Digital Culture Underground · 2021 — Canal Convergence: Art & Technology  
-- 2019 — YESW: Designing Alternative Controllers (Fulton Schools) · Digital Culture Summer Institute (2018–2019)
+- 2019 — YESW: Designing Alternative Controllers (Fulton Schools) · Digital Culture Summer Institute (2018–2019) 
