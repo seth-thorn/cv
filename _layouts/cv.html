@@ -5,94 +5,74 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} | {{ site.title }}</title>
   {%- seo -%}
-
-  <!-- HARD RESET + SCREEN STYLES -->
   <style>
-    /* Reset theme interference */
-    *, *::before, *::after { box-sizing: border-box; }
-    html, body { margin: 0; padding: 0; }
-    .site-header, .site-footer, .page-header, .footer-col-wrapper,
-    .page-content .wrapper, .wrapper > .post, .post-title,
-    .post-meta, .post-header { display: none !important; }
-    .page-content { padding: 0 !important; margin: 0 !important; }
-
-    :root { --fg:#111; --muted:#555; --rule:#e6e6e6; --accent:#111; }
+    :root { --fg:#111; --muted:#555; --rule:#ddd; --accent:#222; }
     html { font-size: 16px; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Noto Sans",
-                   "Apple Color Emoji","Segoe UI Emoji";
-      color: var(--fg);
-      line-height: 1.5;
-      background: #fff;
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Noto Sans", "Apple Color Emoji","Segoe UI Emoji"; color: var(--fg); line-height: 1.5; margin: 0; }
+    main { max-width: 900px; margin: 2rem auto; padding: 0 1.2rem 4rem; }
+    h1,h2,h3 { line-height: 1.2; margin: 1.2rem 0 0.6rem; }
+    h1 { font-size: 1.9rem; }
+    h2 { font-size: 1.35rem; border-top:1px solid var(--rule); padding-top: .75rem; margin-top: 1.6rem; }
+    h3 { font-size: 1.05rem; color: var(--accent); margin-top: 1rem; }
+    .lead { margin-top: .25rem; color: var(--muted); }
+    .muted { color: var(--muted); }
+    .sm { font-size: .95rem; }
+    header { border-bottom:1px solid var(--rule); padding-bottom: .75rem; }
+    .updated { margin-top: 2rem; font-size: .9rem; color: var(--muted); }
+
+    /* LIST FIXES — apply on screen */
+    article ul {
+      margin: 0.4rem 0 0.9rem;
+      padding-left: 1.2rem;
+      list-style: disc;
+      list-style-position: outside;
+      -webkit-padding-start: 1.2rem;
+    }
+    article li {
+      display: list-item;
+      margin: 0.18rem 0;
+      break-inside: avoid;
+      page-break-inside: avoid;
+      word-break: normal;
+      overflow-wrap: normal;
+    }
+    article li > p {
+      display: inline;
+      margin: 0;
+    }
+    article li::marker {
+      font-size: 0.9em;
     }
 
-    main { max-width: 860px; margin: 40px auto 80px; padding: 0 20px; }
-    header { border-bottom:1px solid var(--rule); padding-bottom: 10px; margin-bottom: 18px; }
-
-    h1,h2,h3 { line-height: 1.2; margin: 0.9rem 0 0.45rem; }
-    h1 { font-size: 1.9rem; margin-top: 0; }
-    h2 {
-      font-size: 1.25rem;
-      margin-top: 1.25rem;
-      padding-top: .25rem;
-      border-top: 1px solid var(--rule);
-      color: var(--accent);
-    }
-    h3 { font-size: 1.05rem; margin-top: .9rem; color: var(--accent); }
-
-    .lead { margin-top: .3rem; color: var(--muted); }
-    .updated { margin-top: 24px; font-size: .92rem; color: var(--muted); }
-
-    /* Lists: tighter, consistent bullets, no weird left gutters */
-    article ul { margin: 0.25rem 0 0.8rem 1.15rem; padding: 0; }
-    article li  { margin: .18rem 0; }
-
-    /* Make long lines read well on desktop + mobile */
-    p, li { word-break: normal; overflow-wrap: anywhere; hyphens: auto; }
-
-    /* Optional small-caps section labels you might add later */
-    .label { font-variant-caps: all-small-caps; letter-spacing: .04em; color: var(--muted); }
-
-    /* Links readable on light background */
-    a { color: #0645AD; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-  </style>
-
-  <!-- PRINT OVERRIDES: keep PDF clean and compact -->
-  <style>
     @media print {
-      @page { size: Letter; margin: 0.65in; }
-      html, body { font-size: 12px; line-height: 1.35; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      a { color: black; text-decoration: none; }
+      header { border: 0; padding: 0; }
+      h2 { border: 0; padding-top: 0; }
+      .updated { display: none; }
+      @page { margin: 1in; }
 
-      /* Strip all theme boxes & multi-column artifacts */
-      main, .page-content, article, .post, .post-content {
-        max-width: none !important; width: auto !important;
-        margin: 0 !important; padding: 0 !important;
-        background: transparent !important; border: 0 !important; box-shadow: none !important;
+      /* LIST FIXES — mirror for print */
+      article ul {
+        margin: 0.4rem 0 0.9rem;
+        padding-left: 1.2rem;
+        list-style: disc;
+        list-style-position: outside;
       }
-      header { border: 0 !important; padding: 0 0 .2in 0 !important; margin: 0 0 .05in 0 !important; }
-      .updated, .site-header, .site-footer { display: none !important; }
-      *, *::before, *::after { background: transparent !important; box-shadow: none !important; text-shadow: none !important; }
-
-      /* Headings & spacing tuned for density */
-      h1 { font-size: 20px; margin: 0 0 6px; }
-      h2 { font-size: 15px; margin: 10px 0 4px; padding-top: 0; border: 0; }
-      h3 { font-size: 13px; margin: 8px 0 2px; color: #000 !important; }
-
-      /* Tight, unbroken lists */
-      article ul { margin: 2px 0 6px 1.1rem; padding: 0; }
-      article li { margin: 1px 0; page-break-inside: avoid; }
-
-      /* Keep sections together better */
-      h1, h2, h3 { page-break-after: avoid; }
-      p { orphans: 3; widows: 3; }
-
-      /* Links appear clean in print */
-      a { color: #000 !important; text-decoration: none !important; }
+      article li {
+        display: list-item;
+        margin: 0.18rem 0;
+        break-inside: avoid;
+        page-break-inside: avoid;
+      }
+      article li > p {
+        display: inline;
+        margin: 0;
+      }
+      article li::marker {
+        font-size: 0.9em;
+      }
     }
   </style>
-
-  <!-- Optional: leave this if you want to tweak via a separate file too -->
   <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
 </head>
 <body>
@@ -101,11 +81,9 @@
       <h1>{{ page.title }}</h1>
       {% if page.subtitle %}<div class="lead">{{ page.subtitle }}</div>{% endif %}
     </header>
-
     <article>
       {{ content }}
     </article>
-
     <div class="updated">Last updated: {{ site.time | date: "%B %d, %Y" }}</div>
   </main>
 </body>
