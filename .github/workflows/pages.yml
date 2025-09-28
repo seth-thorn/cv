@@ -19,17 +19,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      # Required for Pages
       - uses: actions/configure-pages@v5
-
-      # Build the Jekyll site into ./_site
       - uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
 
-      # Build PDF from index.md with Pandoc (Docker)
+      # Build PDF and place it in the published site
       - name: Build PDF with Pandoc
         run: |
           docker run --rm -v "${GITHUB_WORKSPACE}:/data" pandoc/latex \
@@ -38,7 +34,6 @@ jobs:
           mkdir -p _site
           mv cv.pdf _site/cv.pdf
 
-      # Upload the site (including cv.pdf) as the artifact to deploy
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
