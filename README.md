@@ -1,23 +1,41 @@
-# Seth D. Thorn — CV (GitHub Pages + PDF)
+# Seth D. Thorn — CV Site
 
-This repo hosts a single-source CV in Markdown and publishes it as:
-- **Web**: GitHub Pages (Jekyll). Embed in Squarespace via an `<iframe>`.
-- **PDF**: Built automatically via GitHub Actions (Pandoc) and attached as a workflow artifact.
+This repository hosts my **academic/creative CV**, published via GitHub Pages.  
+The site and a downloadable PDF are generated automatically using GitHub Actions.
 
-## Quick Start
+---
 
-1. Create a new GitHub repo and upload these files.
-2. In `.github/workflows/Build and Deploy GitHub Pages`, GitHub will publish to Pages on push.
-3. Enable **Settings → Pages → Build and deployment → GitHub Actions**.
-4. After each push, grab the **cv.pdf** artifact from the **Generate CV PDF artifact** workflow.
+## Live Links
 
-### Squarespace Embed (Code Block)
-Replace `USERNAME` and `REPO`:
+- **Web version:** https://seth-thorn.github.io/cv/  
+- **PDF version:** https://seth-thorn.github.io/cv/cv.pdf  
 
-```html
-<iframe src="https://USERNAME.github.io/REPO/" style="width:100%; height:2200px; border:0;" loading="lazy"></iframe>
-```
+---
 
-### Editing
-- Edit `index.md` as your single source of truth.
-- The site theme/layout is in `_layouts/cv.html`. Print rules are included so printing from the browser yields a clean PDF as well.
+## Build & Deployment Pipeline
+
+Each push to `main` triggers this workflow:
+
+1. **Jekyll build** — the site is compiled into `_site/`  
+2. **Puppeteer PDF render** — the HTML version is converted to `cv.pdf`  
+3. **Assembly** — `_site/` contents and `cv.pdf` are copied into a writable folder  
+4. **Publish** — the folder is uploaded and deployed via GitHub Pages  
+
+Because of this, you only ever need to edit one file:
+
+- `index.md` — the master CV source in Markdown  
+- Supporting CSS or layout tweaks live in `assets/` or `_layouts/cv.html`
+
+---
+
+## Editing Instructions
+
+- Update **only** `index.md` when you change appointments, publications, etc.  
+- Create / edit CSS under `assets/css/print.css` or override in `_layouts/cv.html` for styling.  
+- If you ever tweak the layout/design, do so in `_layouts/cv.html` — the PDF render mirrors that HTML.
+
+To trigger a rebuild:
+```bash
+git add .
+git commit -m "Update CV content"
+git push origin main
