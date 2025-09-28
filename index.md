@@ -10,16 +10,16 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - [ASU News Archives on Seth Thorn](https://search.asu.edu/?q=Seth%20Thorn&site=default_collection&sort=date:D:L:d1)  
 
 # I. Academic Appointments
-- 2025 – present — Assistant Professor, Interactive Media | The GAME School, ASU  
-- 2021 – 2024 — Clinical Assistant Professor, Media Computing | AME, ASU  
-- 2018 – 2020 — Instructor, Electronic and Digital Audio | AME, ASU  
-- 2017 – 2018 — Faculty Associate, AME, ASU  
+- 2025 – present — Assistant Professor, Interactive Media • The GAME School, ASU  
+- 2021 – 2024 — Clinical Assistant Professor, Media Computing • AME, ASU  
+- 2018 – 2020 — Instructor, Electronic and Digital Audio • AME, ASU  
+- 2017 – 2018 — Faculty Associate • AME, ASU  
 
 # II. Education
 - 2018 — PhD, Computer Music and Multimedia, Brown University  
 - 2015 — MA, German Studies, Brown University  
 - 2014 — MA, Computer Music and Multimedia, Brown University  
-- 2011 — MA, Political Theory, Goethe‑Universität Frankfurt am Main  
+- 2011 — MA, Political Theory, Goethe-Universität Frankfurt am Main  
 - 2007 — BA, Philosophy, Northwestern University  
 
 # III. Non-Academic Positions
@@ -27,58 +27,58 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2025 – present — Glitch Cloud Audio LLC  
 
 # IV. Funding
-- 2024 — NSF EAGER (PI 35%), $296,239 — Youth‑Led Community Learning: Enhancing Semiconductor Engagement through Musical Circuit Bending  
+- 2024 — NSF EAGER (PI 35%), $296,239 — Youth-Led Community Learning: Enhancing Semiconductor Engagement through Musical Circuit Bending  
 - 2024 — Venture Devils Demo Day Grant, $2,375 (Matter Squared LLC)  
-- 2024 — Les Paul Foundation (Co‑PI), $2,242 — Inventing Possibilities with Musical Circuits  
+- 2024 — Les Paul Foundation (Co-PI), $2,242 — Inventing Possibilities with Musical Circuits  
 - 2024 — Hool Law Group Grant, $10,000 (Matter Squared LLC)  
 - 2024 — Impact AZ Grant, $10,000 (Matter Squared LLC)  
 - 2024 — Good Work Capital Fund Grant, $10,000 (Matter Squared LLC)  
 - 2022 — ASU HIRBI Research Investment (PI), $10,000 — Reprogram and Remix the Violin with Active Shoulder Rests  
-- 2021 — NSF CS4All (Co‑PI 25%), $998,712 — Engaging Teachers and Neurodiverse Middle School Students in Tangible and Creative Computational Thinking Activities  
-- 2019 — ASU HIRBI Research Investment (PI), $4,500 — Real‑time Computational Photographic Analysis of the Violin  
+- 2021 — NSF CS4All (Co-PI 25%), $998,712 — Engaging Teachers and Neurodiverse Middle School Students in Tangible and Creative Computational Thinking Activities  
+- 2019 — ASU HIRBI Research Investment (PI), $4,500 — Real-time Computational Photographic Analysis of the Violin  
 
 # V. Awarded and Pending Patents
-- 2023 — U.S. Utility Patent Application — Method for Actuating Instruments with an End‑Pin  
-- 2023 — PCT Patent Application — Active Shoulder Rest | S. Thorn et al.  
+- 2023 — U.S. Utility Patent Application — Method for Actuating Instruments with an End-Pin  
+- 2023 — PCT Patent Application — Active Shoulder Rest • S. Thorn et al.  
 - 2022 — Issued U.S. Patent — Shoulder Rest with Haptic Feedback  
 
 # VI. Refereed Journal Articles
-- 2022 — *Wearable Technologies* | Cambridge University Press — Collectively Playable Wearable Music: Practice‑situated approaches to participatory relational inquiry  
-- 2021 — *Organised Sound* | Cambridge University Press — Flows of Inhomogeneous Matter: Improvising an augmented violin  
-- 2019 — *Leonardo Music Journal* | MIT Press — A Computational System for Violin: Synthesis and Dissolution in Windowless  
+- 2022 — *Wearable Technologies* • Cambridge University Press — Collectively Playable Wearable Music: Practice-situated approaches to participatory relational inquiry  
+- 2021 — *Organised Sound* • Cambridge University Press — Flows of Inhomogeneous Matter: Improvising an augmented violin  
+- 2019 — *Leonardo Music Journal* • MIT Press — A Computational System for Violin: Synthesis and Dissolution in Windowless  
 
 # VII. Refereed Conference Publications (Long Papers)
 - 2025 — NIME — Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping  
 - 2025 — ICMC 50th Anniversary, Boston MA — Coding Modular with Max/Gen: A Eurorack System for Violin Improvisation  
-- 2022 — NIME — Decolonizing the Violin with Active Shoulder Rests | S. Thorn & B. Lahey  
-- 2020 — ACM Movement & Computing — Processual and Experiential Design in Wearable Music Workshopping | S. Thorn, H. Willcox, X.W. Sha  
-- 2019 — ACM Movement & Computing — Instruments of Articulation: Signal Processing in Live Performance | S. Thorn & X.W. Sha  
-- 2019 — ICMC — A Haptic‑Feedback Shoulder Rest for the Hybrid Violin | S. Thorn & B. Lahey  
+- 2022 — NIME — Decolonizing the Violin with Active Shoulder Rests • S. Thorn & B. Lahey  
+- 2020 — ACM Movement & Computing — Processual and Experiential Design in Wearable Music Workshopping • S. Thorn, H. Willcox, X.W. Sha  
+- 2019 — ACM Movement & Computing — Instruments of Articulation: Signal Processing in Live Performance • S. Thorn & X.W. Sha  
+- 2019 — ICMC — A Haptic-Feedback Shoulder Rest for the Hybrid Violin • S. Thorn & B. Lahey  
 - 2018 — NIME — Alto.glove: New Techniques for Augmented Violin  
 
 # VIII. Refereed Conference Publications (Short Papers / Posters / Extended Abstracts)
-- 2025 — ACM Creativity & Cognition (Arts Track, Virtual / London) — Diffractive Constellations: Activating Human‑Machine Co‑Creation in Violin Performance through Embedded Modular Coding  
-- 2022 — IEEE RESPECT — Co‑Design of Wearable Music Curriculum for Transversal Neurodiverse Computational Thinking | S. Thorn et al.  
+- 2025 — ACM Creativity & Cognition (Arts Track, Virtual / London) — Diffractive Constellations: Activating Human-Machine Co-Creation in Violin Performance through Embedded Modular Coding  
+- 2022 — IEEE RESPECT — Co-Design of Wearable Music Curriculum for Transversal Neurodiverse Computational Thinking • S. Thorn et al.  
 - 2021 — ACM Audio Mostly (Best Poster Award) — Telematic Wearable Music: Remote Ensembles and Inclusive Embodied Education  
 - 2021 — XCOAX — Machinic Intersection: Not—Yet—Chaconne  
-- 2020 — ACM Movement & Computing — Hybrid Violin Performance: Model‑Free, Abductive Experiment  
-- 2019 — ACM Creativity & Cognition — Signal Processing as Practice: Trial‑and‑Error Revision of the Sensorimotor Dynamics of a Hybrid Violin  
+- 2020 — ACM Movement & Computing — Hybrid Violin Performance: Model-Free, Abductive Experiment  
+- 2019 — ACM Creativity & Cognition — Signal Processing as Practice: Trial-and-Error Revision of the Sensorimotor Dynamics of a Hybrid Violin  
 - 2019 — ACM Tangible, Embodied and Embedded Interactions — Transference: A Hybrid Computational System for Improvised Violin Performance  
 
 # IX. Refereed Workshops
-- 2019 — ACM Tangible, Embodied, and Embedded Interactions — Composing Ecosystemically in Responsive Environments with Gestural Media, Objects, and Textures | B. Metchley et al.  
-- 2019 — ACM Movement & Computing — Co‑constructing Events in Responsive Environments | X.W. Sha et al.  
+- 2019 — ACM Tangible, Embodied, and Embedded Interactions — Composing Ecosystemically in Responsive Environments with Gestural Media, Objects, and Textures • B. Metchley et al.  
+- 2019 — ACM Movement & Computing — Co-constructing Events in Responsive Environments • X.W. Sha et al.  
 
 # X. Refereed Panels
-- 2023 — CUNY Neurodiversity Conference — Neurodiversity as a baseline in STEM education research | M. Koro et al.  
-- 2022 — IEEE RESPECT (Panel) — Partnerships built for equity: Neurodivergent learners and the use of CT | M. Koro et al.  
+- 2023 — CUNY Neurodiversity Conference — Neurodiversity as a baseline in STEM education research • M. Koro et al.  
+- 2022 — IEEE RESPECT (Panel) — Partnerships built for equity: Neurodivergent learners and the use of CT • M. Koro et al.  
 
 # XI. Commissioned Translations
-- 2014 — *Qui Parle* | UC Berkeley — Christoph Menke, The Aesthetic Possibility of the Work of Art  
+- 2014 — *Qui Parle* • UC Berkeley — Christoph Menke, The Aesthetic Possibility of the Work of Art  
 
 # XII. Awards & Recognition
 - 2025 — Debut Solo Album release, *A Curious Doubling of Terms* (Audiobulb Records UK)  
-- 2024 — Inaugural Teaching Innovation Award (Peer‑Selected), School of Arts, Media and Engineering, ASU  
+- 2024 — Inaugural Teaching Innovation Award (Peer-Selected), School of Arts, Media and Engineering, ASU  
 - 2023 — Guthman Musical Instrument Competition, Finalist  
 - 2021 — ACM Audio Mostly, Best Poster Award  
 - 2020 — ISMIR First Prize (Music Performance Category)  
@@ -86,33 +86,33 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2018 — Guthman Musical Instrument Competition, Finalist  
 
 # XIII. Residencies
-- 2018 — Hewnoaks Artist Colony 
+- 2018 — Hewnoaks Artist Colony  
 - 2017 — iPark Foundation, East Haddam, Connecticut  
 
 # XIV. Selected Invited Talks and Presentations
-- 2024 — Fulton Engineering Lab to Launch ASU | Tech Startup Pitch (Matter Squared LLC)  
-- 2023 — New Economy Initiative ASU: Human Performance | Tech Startup Pitch (Matter Squared LLC)  
+- 2024 — Fulton Engineering Lab to Launch ASU • Tech Startup Pitch (Matter Squared LLC)  
+- 2023 — New Economy Initiative ASU: Human Performance • Tech Startup Pitch (Matter Squared LLC)  
 - 2022 — Metaware Seminar Series (ASU Fashion, MIT Media Lab, NTU) — Wearable Music and Transacoustic Violins  
 - 2021 — Cornish College of the Arts (Ableton Sponsorship) — Violin HCI with Ableton and Max  
-- 2021 — XCOAX | Artist Roundtable  
-- 2019 — NYC Electroacoustic Improvisation Summit | Artist Roundtable  
-- 2018 — Digital Culture Speaker Series, ASU | Artist Talk  
-- 2018 — SPLICE Festival, WMU Kalamazoo | Artist Talk  
+- 2021 — XCOAX • Artist Roundtable  
+- 2019 — NYC Electroacoustic Improvisation Summit • Artist Roundtable  
+- 2018 — Digital Culture Speaker Series, ASU • Artist Talk  
+- 2018 — SPLICE Festival, WMU Kalamazoo • Artist Talk  
 
 # XV. Selected Performances
 - 2025 — NIME, Canberra + Virtual  
 - 2025 — ACM Creativity & Cognition, London + Virtual  
 - 2025 — Society for Electroacoustic Music in the United States (Listening Space Performance), Bloomington — Modular System for Acoustic Violin and Live Improvisation  
-- 2021 — xCoax | Graz (Virtual)  
-- 2020 — ISMIR | Montreal (Virtual)  
-- 2020 — ACM Movement & Computing | Jersey City (Virtual)  
-- 2019 — ACM Movement & Computing | Tempe  
+- 2021 — xCoax • Graz (Virtual)  
+- 2020 — ISMIR • Montreal (Virtual)  
+- 2020 — ACM Movement & Computing • Jersey City (Virtual)  
+- 2019 — ACM Movement & Computing • Tempe  
 - 2019 — ICMC + NYC Electroacoustic Music Festival  
-- 2019 — ACM Tangible, Embedded and Embodied Experiences | Tempe  
+- 2019 — ACM Tangible, Embedded and Embodied Experiences • Tempe  
 - 2019 — NYC Electroacoustic Improvisation Summit  
 - 2018 — NYC Electroacoustic Music Festival  
-- 2018 — NIME | Blacksburg  
-- 2018 — SPLICE Festival | WMU, Kalamazoo  
+- 2018 — NIME • Blacksburg  
+- 2018 — SPLICE Festival • WMU, Kalamazoo  
 
 # XVI. Media / Press / Reviews
 ## Albums
@@ -139,23 +139,23 @@ title: "Seth D. Thorn — Curriculum Vitae"
 
 # XVII. Teaching
 ## New & Redeveloped Courses
-- Wearable Music (2021–present) — Upper‑level undergraduate  
-- Computational Thinking for Media Arts and Sciences (2020–present) — Lower‑level undergraduate  
-- Hyperinstruments (2018–2020) — Upper‑level undergraduate  
+- Wearable Music (2021–present) — Upper-level undergraduate  
+- Computational Thinking for Media Arts and Sciences (2020–present) — Lower-level undergraduate  
+- Hyperinstruments (2018–2020) — Upper-level undergraduate  
 - Advanced Interactive Sound (2017–present) — Mixed undergraduate + graduate  
-- Circuit Bending (2017–present) — Lower‑level undergraduate  
-- Synthesis and Expression (2017–present) — Upper‑level undergraduate  
+- Circuit Bending (2017–present) — Lower-level undergraduate  
+- Synthesis and Expression (2017–present) — Upper-level undergraduate  
 
 ## Other Courses Taught
-- 2020 — Introduction to Digital Culture (Lower‑level undergraduate)  
-- 2018 – 2019 — Composing and Performing for Hybrid Ensembles (Upper‑level undergraduate)  
-- 2019 – 2020 — Digital Culture Capstone I & II (Upper‑level undergraduate)  
+- 2020 — Introduction to Digital Culture (Lower-level undergraduate)  
+- 2018 – 2019 — Composing and Performing for Hybrid Ensembles (Upper-level undergraduate)  
+- 2019 – 2020 — Digital Culture Capstone I & II (Upper-level undergraduate)  
 
 # XVIII. Student Mentorship
 - 2025 — Honors Thesis Director: Kylie Stenke  
 - 2024 — PhD Chair: Shomit Barura  
 - 2024 — Project Advisor: Cody Carter (America’s Got Talent Preparation Project)  
-- 2023 — DMA Co‑Chair: Julian Nguyen (with Jonathan Swartz)  
+- 2023 — DMA Co-Chair: Julian Nguyen (with Jonathan Swartz)  
 - 2023 — NSF REU Mentor: Leah Donnelly  
 - 2022 — Project Advisor: Emma Murphy (Phoenix Children’s Hospital Fundraiser)  
 - 2022 — NSF REU Mentor: Ethan Lee  
@@ -188,4 +188,4 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2023 — ACM TEI  
 - 2023 — 4th Intl Symposium on Internet of Sounds  
 - 2023 — Einstein Foundation (Berlin)  
-- 2022 — ACM Movement and Computing 
+- 2022 — ACM Movement and Computing  
