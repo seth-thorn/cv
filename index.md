@@ -10,10 +10,10 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - [ASU News Archives on Seth Thorn](https://search.asu.edu/?q=Seth%20Thorn&site=default_collection&sort=date:D:L:d1)  
 
 # I. Academic Appointments
-- 2025–present — Assistant Professor, Interactive Media | The GAME School, ASU  
-- 2021–2024 — Clinical Assistant Professor, Media Computing | AME, ASU  
-- 2018–2020 — Instructor, Electronic and Digital Audio | AME, ASU  
-- 2017–2018 — Faculty Associate, AME, ASU  
+- 2025 – present — Assistant Professor, Interactive Media | The GAME School, ASU  
+- 2021 – 2024 — Clinical Assistant Professor, Media Computing | AME, ASU  
+- 2018 – 2020 — Instructor, Electronic and Digital Audio | AME, ASU  
+- 2017 – 2018 — Faculty Associate, AME, ASU  
 
 # II. Education
 - 2018 — PhD, Computer Music and Multimedia, Brown University  
@@ -23,13 +23,13 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2007 — BA, Philosophy, Northwestern University  
 
 # III. Non-Academic Positions
-- 2022–present — Founder & Principal, Matter Squared LLC  
-- 2025–present — Glitch Cloud Audio LLC  
+- 2022 – present — Founder & Principal, Matter Squared LLC  
+- 2025 – present — Glitch Cloud Audio LLC  
 
 # IV. Funding
 - 2024 — NSF EAGER (PI 35%), $296,239 — Youth‑Led Community Learning: Enhancing Semiconductor Engagement through Musical Circuit Bending  
 - 2024 — Venture Devils Demo Day Grant, $2,375 (Matter Squared LLC)  
-- 2024 — Les Paul Foundation (Co‑PI), $2,000 — Inventing Possibilities with Musical Circuits  
+- 2024 — Les Paul Foundation (Co‑PI), $2,242 — Inventing Possibilities with Musical Circuits  
 - 2024 — Hool Law Group Grant, $10,000 (Matter Squared LLC)  
 - 2024 — Impact AZ Grant, $10,000 (Matter Squared LLC)  
 - 2024 — Good Work Capital Fund Grant, $10,000 (Matter Squared LLC)  
@@ -84,16 +84,10 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2020 — ISMIR First Prize (Music Performance Category)  
 - 2018 — Matera Intermedia Festival, Finalist  
 - 2018 — Guthman Musical Instrument Competition, Finalist  
-- 2018 — Playa Foundation Art + Science Residency  
-- 2018 — Hewnoaks Artist Colony  
-- 2017 — I‑Park Foundation  
-- 2016 — Brown University, Open Graduate Education Dissertation Fellowship  
-- 2011 — Tisch Foundation, Outstanding Incoming Graduate Student Fellowship  
-- 2007 — Fulbright Foundation Germany, Yearlong Student Research Fellowship  
-- 2007 — DAAD, Yearlong Student Research Fellowship (declined in favor of Fulbright)  
 
 # XIII. Residencies
-- 2018 — iPark Foundation, East Haddam, Connecticut  
+- 2018 — Hewnoaks Artist Colony 
+- 2017 — iPark Foundation, East Haddam, Connecticut  
 
 # XIV. Selected Invited Talks and Presentations
 - 2024 — Fulton Engineering Lab to Launch ASU | Tech Startup Pitch (Matter Squared LLC)  
@@ -154,8 +148,8 @@ title: "Seth D. Thorn — Curriculum Vitae"
 
 ## Other Courses Taught
 - 2020 — Introduction to Digital Culture (Lower‑level undergraduate)  
-- 2018–2019 — Composing and Performing for Hybrid Ensembles (Upper‑level undergraduate)  
-- 2019–2020 — Digital Culture Capstone I & II (Upper‑level undergraduate)  
+- 2018 – 2019 — Composing and Performing for Hybrid Ensembles (Upper‑level undergraduate)  
+- 2019 – 2020 — Digital Culture Capstone I & II (Upper‑level undergraduate)  
 
 # XVIII. Student Mentorship
 - 2025 — Honors Thesis Director: Kylie Stenke  
@@ -172,15 +166,15 @@ title: "Seth D. Thorn — Curriculum Vitae"
 
 # XIX. Program Committees
 - 2025 — Program Committee Member, IEEE IS2 (International Symposium on the Internet of Sounds)  
-- 2024 — Program Committee Member, IS2 (recognized as IEEE conf in 2024)  
+- 2024 — Program Committee Member, IEEE IS2 (recognized as IEEE conf in 2024)  
 - 2023 — Program Committee Member, IS2  
 
 # XX. Academic Service (Internal)
-- 2024–present — ASU Herberger Institute Graduate Curriculum Committee  
-- 2023–present — Edson E+I Unit Entrepreneurship Liaison  
-- 2022–2025 — ASU Herberger Institute Research Committee  
-- 2021–2024 — Research Council, Herberger Institute (Rep., AME)  
-- 2022–present — Faculty Advisor, Digital Culture Underground  
+- 2024 – present — ASU Herberger Institute Graduate Curriculum Committee  
+- 2023 – present — Edson E+I Unit Entrepreneurship Liaison  
+- 2022 – 2025 — ASU Herberger Institute Research Committee  
+- 2021 – 2024 — Research Council, Herberger Institute (Rep., AME)  
+- 2022 – present — Faculty Advisor, Digital Culture Underground  
 - 2021 — Canal Convergence 2021: Art & Technology, Scottsdale  
 - 2019 — YESW Workshop, Fulton Schools of Engineering, ASU  
 - 2019 — Digital Culture Summer Institute (Course Development & Teaching)  
