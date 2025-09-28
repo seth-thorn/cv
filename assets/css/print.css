@@ -1,25 +1,98 @@
-/* Print tuning for CV PDF (no effect on web view) */
-@page {
-  size: Letter;
-  margin: 0.65in; /* tighter margins */
+/* -------------------------------------------------------------------------
+   Seth Thorn — CV stylesheet
+   Works for both screen and print. Replaces the old print.css.
+--------------------------------------------------------------------------- */
+
+:root {
+  --fg: #111;
+  --muted: #555;
+  --bg: #fff;
+  --link: #0a58ca;
+  --maxw: 75ch;
+  --lh: 1.45;
+  --scale: clamp(14px, 0.95vw + 12px, 17px);
 }
 
-html, body {
-  font-size: 12.5px;  /* reduce overall text size */
-  line-height: 1.35;
+* { box-sizing: border-box; }
+html { font-size: 16px; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: var(--scale)/var(--lh) ui-sans-serif, system-ui, -apple-system,
+        "Segoe UI", Roboto, "Helvetica Neue", Arial, "Apple Color Emoji",
+        "Segoe UI Emoji";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-h1 { font-size: 20px; margin: 0 0 6px 0; }
-h2 { font-size: 15px; margin: 12px 0 6px 0; }
-h3 { font-size: 13px; margin: 10px 0 4px 0; }
+a { color: var(--link); text-decoration: underline; }
+a:visited { color: var(--link); }
 
-ul { margin: 4px 0 8px 16px; }
-li { margin: 2px 0; }
+h1, h2, h3 {
+  line-height: 1.2;
+  margin: 1.2rem 0 .6rem;
+}
+h1 { font-size: clamp(1.6rem, 2.4vw, 2.1rem); font-weight: 700; }
+h2 {
+  font-size: clamp(1.15rem, 1.6vw, 1.35rem);
+  font-weight: 700;
+  border-bottom: 1px solid #eee;
+  padding-bottom: .25rem;
+  margin-top: 2rem;
+}
+h3 { font-size: 1rem; font-weight: 600; margin-top: 1rem; }
 
-a { color: #000; text-decoration: none; }
+/* ---- Layout ------------------------------------------------------------- */
+.cv { max-width: var(--maxw); margin: 2rem auto; padding: 0 1rem; }
+.cv__header { margin-bottom: 1rem; }
+.cv__subtitle, .cv__meta { color: var(--muted); margin: .25rem 0; }
 
-hr { margin: 8px 0; }
+/* ---- Lists -------------------------------------------------------------- */
+ul, ol { margin: .25rem 0 .75rem 1.15rem; padding: 0; }
+li { margin: .25rem 0; }
+li p { margin: .25rem 0; }
+li:empty { display: none; }              /* hide stray bullets */
+ul ul { margin-top: 0; }
+strong { font-weight: 600; }
 
-h1, h2, h3 { page-break-after: avoid; }
-li { page-break-inside: avoid; }
-p { orphans: 3; widows: 3; }
+/* Hanging indent for year-prefixed items */
+li[data-hanging="true"] {
+  padding-left: 3.5ch;
+  text-indent: -3.5ch;
+}
+
+/* Right-aligned aside, e.g. coauthor list */
+.aside {
+  float: right;
+  color: var(--muted);
+  margin-left: 1rem;
+}
+@media (max-width: 640px) {
+  .aside { float: none; display: block; margin: 0 0 .25rem; }
+}
+
+/* ---- Tables ------------------------------------------------------------- */
+table { border-collapse: collapse; width: 100%; margin: .75rem 0; }
+th, td {
+  border-bottom: 1px solid #eee;
+  padding: .4rem .2rem;
+  text-align: left;
+}
+th { font-weight: 600; }
+
+/* ---- Footer ------------------------------------------------------------- */
+.cv__footer { color: var(--muted); margin-top: 2rem; font-size: .875rem; }
+
+/* ---- Print tweaks ------------------------------------------------------- */
+@media print {
+  :root { --link: #000; }
+  a { text-decoration: none; }
+  body { color-adjust: exact; -webkit-print-color-adjust: exact; }
+  .cv { max-width: none; margin: 0; padding: 0 0.5in; }
+  h2 { break-before: auto; break-after: avoid-page; }
+  h1, h2, h3 { page-break-after: avoid; }
+  li { page-break-inside: avoid; }
+  .aside { float: right; }
+  @page { margin: 0.6in 0.6in 0.7in; }
+}
