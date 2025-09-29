@@ -28,11 +28,11 @@ title: "Seth D. Thorn — Curriculum Vitae"
 
 # IV. Funding
 - 2024 — NSF EAGER (PI 35%), $296,239 — Youth-Led Community Learning: Enhancing Semiconductor Engagement through Musical Circuit Bending  
-- 2024 — Venture Devils Demo Day Grant, $2,375 (Matter Squared LLC)  
+- 2024 — Venture Devils Demo Day Grant, $2,375 • Matter Squared LLC
 - 2024 — Les Paul Foundation (Co-PI), $2,242 — Inventing Possibilities with Musical Circuits  
-- 2024 — Hool Law Group Grant, $10,000 (Matter Squared LLC)  
-- 2024 — Impact AZ Grant, $10,000 (Matter Squared LLC)  
-- 2024 — Good Work Capital Fund Grant, $10,000 (Matter Squared LLC)  
+- 2024 — Hool Law Group Grant, $10,000 • Matter Squared LLC  
+- 2024 — Impact AZ Grant, $10,000 • Matter Squared LLC
+- 2024 — Good Work Capital Fund Grant, $10,000 • Matter Squared LLC
 - 2022 — ASU HIRBI Research Investment (PI), $10,000 — Reprogram and Remix the Violin with Active Shoulder Rests  
 - 2021 — NSF CS4All (Co-PI 25%), $998,712 — Engaging Teachers and Neurodiverse Middle School Students in Tangible and Creative Computational Thinking Activities  
 - 2019 — ASU HIRBI Research Investment (PI), $4,500 — Real-time Computational Photographic Analysis of the Violin  
@@ -48,7 +48,7 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2019 — *Leonardo Music Journal* • MIT Press — A Computational System for Violin: Synthesis and Dissolution in Windowless  
 
 # VII. Refereed Conference Publications (Long Papers)
-- 2025 — NIME — Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping  
+- 2025 — NIME — Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping • S. Thorn et al. 
 - 2025 — ICMC 50th Anniversary, Boston MA — Coding Modular with Max/Gen: A Eurorack System for Violin Improvisation  
 - 2022 — NIME — Decolonizing the Violin with Active Shoulder Rests • S. Thorn & B. Lahey  
 - 2020 — ACM Movement & Computing — Processual and Experiential Design in Wearable Music Workshopping • S. Thorn, H. Willcox, X.W. Sha  
@@ -59,7 +59,7 @@ title: "Seth D. Thorn — Curriculum Vitae"
 # VIII. Refereed Conference Publications (Short Papers / Posters / Extended Abstracts)
 - 2025 — ACM Creativity & Cognition (Arts Track, Virtual / London) — Diffractive Constellations: Activating Human-Machine Co-Creation in Violin Performance through Embedded Modular Coding  
 - 2022 — IEEE RESPECT — Co-Design of Wearable Music Curriculum for Transversal Neurodiverse Computational Thinking • S. Thorn et al.  
-- 2021 — ACM Audio Mostly (Best Poster Award) — Telematic Wearable Music: Remote Ensembles and Inclusive Embodied Education  
+- 2021 — ACM Audio Mostly (*Best Poster Award*) — Telematic Wearable Music: Remote Ensembles and Inclusive Embodied Education  
 - 2021 — XCOAX — Machinic Intersection: Not—Yet—Chaconne  
 - 2020 — ACM Movement & Computing — Hybrid Violin Performance: Model-Free, Abductive Experiment  
 - 2019 — ACM Creativity & Cognition — Signal Processing as Practice: Trial-and-Error Revision of the Sensorimotor Dynamics of a Hybrid Violin  
@@ -74,10 +74,9 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2022 — IEEE RESPECT (Panel) — Partnerships built for equity: Neurodivergent learners and the use of CT • M. Koro et al.  
 
 # XI. Commissioned Translations
-- 2014 — *Qui Parle* • UC Berkeley — Christoph Menke, The Aesthetic Possibility of the Work of Art  
+- 2014 — *Qui Parle* (UC Berkeley) — Christoph Menke, The Aesthetic Possibility of the Work of Art  
 
 # XII. Awards & Recognition
-- 2025 — Debut Solo Album release, *A Curious Doubling of Terms* (Audiobulb Records UK)  
 - 2024 — Inaugural Teaching Innovation Award (Peer-Selected), School of Arts, Media and Engineering, ASU  
 - 2023 — Guthman Musical Instrument Competition, Finalist  
 - 2021 — ACM Audio Mostly, Best Poster Award  
