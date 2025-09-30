@@ -44,7 +44,7 @@ title: "Seth D. Thorn — Curriculum Vitae"
 
 # VI. Refereed Journal Articles
 - 2022 — *Wearable Technologies* • Cambridge University Press — [Collectively Playable Wearable Music: Practice-situated approaches to participatory relational inquiry](https://doi.org/10.1017/wtc.2021.19)  
-- 2021 — *Organised Sound* • Cambridge University Press — [Flows of Inhomogeneous Matter: Improvising an augmented violin](https://doi.org/10.1017/S1355771821000272)  
+- 2021 — *Organised Sound* • Cambridge University Press — [Flows of Inhomogeneous Matter: Improvising an augmented violin](https://www.cambridge.org/core/journals/organised-sound/article/flows-of-inhomogeneous-matter-improvising-an-augmented-violin/474B0783E1A7463F48E256ED54144598)  
 - 2019 — *Leonardo Music Journal* • MIT Press — [A Computational System for Violin: Synthesis and Dissolution in Windowless](https://doi.org/10.1162/lmj_a_01062)  
 
 # VII. Refereed Conference Publications (Long Papers)
