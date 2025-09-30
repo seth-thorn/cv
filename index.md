@@ -27,14 +27,14 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2025 – present — Glitch Cloud Audio LLC  
 
 # IV. Funding
-- 2024 — NSF EAGER (PI 35%), $296,239 — Youth-Led Community Learning: Enhancing Semiconductor Engagement through Musical Circuit Bending  
-- 2024 — Venture Devils Demo Day Grant, $2,375 • Matter Squared LLC
+- 2024 — NSF AISL EAGER (PI 35%), $296,239 — [Youth-Led Community Learning: Enhancing Semiconductor Engagement through Musical Circuit Bending](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432637)  
+- 2024 — Venture Devils Demo Day Grant, $2,375 • Matter Squared LLC  
 - 2024 — Les Paul Foundation (Co-PI), $2,242 — Inventing Possibilities with Musical Circuits  
 - 2024 — Hool Law Group Grant, $10,000 • Matter Squared LLC  
-- 2024 — Impact AZ Grant, $10,000 • Matter Squared LLC
-- 2024 — Good Work Capital Fund Grant, $10,000 • Matter Squared LLC
+- 2024 — Impact AZ Grant, $10,000 • Matter Squared LLC  
+- 2024 — Good Work Capital Fund Grant, $10,000 • Matter Squared LLC  
 - 2022 — ASU HIRBI Research Investment (PI), $10,000 — Reprogram and Remix the Violin with Active Shoulder Rests  
-- 2021 — NSF CS4All (Co-PI 25%), $998,712 — Engaging Teachers and Neurodiverse Middle School Students in Tangible and Creative Computational Thinking Activities  
+- 2021 — NSF CS4All (Co-PI 25%), $998,712 — [Engaging Teachers and Neurodiverse Middle School Students in Tangible and Creative Computational Thinking Activities](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122924)  
 - 2019 — ASU HIRBI Research Investment (PI), $4,500 — Real-time Computational Photographic Analysis of the Violin  
 
 # V. Awarded and Pending Patents
