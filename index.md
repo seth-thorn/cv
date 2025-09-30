@@ -132,7 +132,6 @@ title: "Seth D. Thorn — Curriculum Vitae"
   - [Radio Free FM](https://www.freefm.de/artikel/st484) — Playlisted broadcast feature, Sept 2025  
   - [WRUV — *The Floating Head of Zsa Zsa*](https://spinitron.com/WRUV/show/82373/The-Floating-Head-of-Zsa-Zsa) — Tuesday, Aug 19, 2025, 10:26 a.m., broadcast by Laima Harmon  
   - [Radio Bandito — Sleep Dose #141](https://www.radiobandito.it) — Wednesday, Sept 24, 2025, 22:00, broadcast feature (featuring *A Curious Doubling of Terms* alongside works by Ran Slavin, Etceteral, Phenomenal World, Kaukolampi, IKI, Jessica Moss, M. Sage, Liv Andrea Hauge Trio, Treen, Goose Green, Raphael Loher, Alessandro Bosetti, David Lee Myers, Slomo, Larum)  
-
 ## University Features and News
 
 **ASU Features — Primary Focus**  
@@ -145,7 +144,14 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2023 — [ASU News — “ASU Student Combines Passions for Performance and Technology”](https://news.asu.edu/20230420-asu-student-combines-passions-performance-and-technology) — Apr 20, 2023  
 - 2019 — [Arizona Republic — “ASU President Michael Crow: innovator and disruptor”](https://www.azcentral.com/story/news/local/arizona-education/2019/asu-president-michael-crow-innovator-disruptor/3195021/) — 2019  
 - 2018 — [ASU News — “ASU Musicians Showcase Creativity in Electronic Music”](https://usenate.asu.edu/asu-musicians-showcase-creativity-electronic-music) — Jan 18, 2018  
-- 2018 — *HIDA Disrupt Magazine 1* — “Digital Culture,” Arizona State University — 2018  
+- 2018 — *HIDA Disrupt Magazine 1* — “Digital Culture,” Arizona State University — 2018
+
+## ASU Features - Scholarly Media for Public
+- 2025 — [ASU News — “How art and technology attracted this Minnesota artist to ASU”](https://news.asu.edu/20250415-how-art-and-technology-attracted-minnesota-artist-asu)  
+- 2024 — ASU Learning Sparks — [Reconsidering the Fundamentals of How We Learn Music](https://sparks.learning.asu.edu/videos/reconsidering-the-fundamentals-of-how-we-learn-music)  
+- 2024 — ASU Learning Sparks — [Symmetrizing Action and Perception](https://sparks.learning.asu.edu/videos/symmetrizing-action-and-perception)  
+- 2024 — ASU Learning Sparks — [Disruptive Technologies in the Context of Music Education](https://sparks.learning.asu.edu/videos/disruptive-technologies-in-the-context-of-music-education)  
+- 2024 — ASU Learning Sparks — [Wearable Music](https://sparks.learning.asu.edu/videos/wearable-music)  
 
 ## External Features
 - 2023 — [Electronic Sound Magazine (UK), Issue 100](https://electronicsound.co.uk/product/issue-100-pdf-edition/) — 2023  
@@ -190,6 +196,7 @@ title: "Seth D. Thorn — Curriculum Vitae"
 # XX. Academic Service (Internal)
 - 2024 – present — ASU Herberger Institute Graduate Curriculum Committee  
 - 2023 – present — Edson E+I Unit Entrepreneurship Liaison  
+  - Represented the School of Music, Dance and Theatre in cross-disciplinary entrepreneurship initiatives, including [Donuts and Entrepreneurship](https://entrepreneurship.asu.edu/events/2024/04/donuts-and-entrepreneurship/) (Apr 26, 2024)  
 - 2022 – 2025 — ASU Herberger Institute Research Committee  
 - 2021 – 2024 — Research Council, Herberger Institute (Rep., AME)  
 - 2022 – present — Faculty Advisor, Digital Culture Underground  
