@@ -43,38 +43,38 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2022 — Issued U.S. Patent — Shoulder Rest with Haptic Feedback  
 
 # VI. Refereed Journal Articles
-- 2022 — *Wearable Technologies* • Cambridge University Press — Collectively Playable Wearable Music: Practice-situated approaches to participatory relational inquiry  
-- 2021 — *Organised Sound* • Cambridge University Press — Flows of Inhomogeneous Matter: Improvising an augmented violin  
-- 2019 — *Leonardo Music Journal* • MIT Press — A Computational System for Violin: Synthesis and Dissolution in Windowless  
+- 2022 — *Wearable Technologies* • Cambridge University Press — [Collectively Playable Wearable Music: Practice-situated approaches to participatory relational inquiry](https://doi.org/10.1017/wtc.2021.19)  
+- 2021 — *Organised Sound* • Cambridge University Press — [Flows of Inhomogeneous Matter: Improvising an augmented violin](https://doi.org/10.1017/S1355771821000272)  
+- 2019 — *Leonardo Music Journal* • MIT Press — [A Computational System for Violin: Synthesis and Dissolution in Windowless](https://doi.org/10.1162/lmj_a_01062)  
 
 # VII. Refereed Conference Publications (Long Papers)
-- 2025 — NIME — Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping • S. Thorn et al. 
-- 2025 — ICMC 50th Anniversary, Boston MA — Coding Modular with Max/Gen: A Eurorack System for Violin Improvisation  
-- 2022 — NIME — Decolonizing the Violin with Active Shoulder Rests • S. Thorn & B. Lahey  
-- 2020 — ACM Movement & Computing — Processual and Experiential Design in Wearable Music Workshopping • S. Thorn, H. Willcox, X.W. Sha  
-- 2019 — ACM Movement & Computing — Instruments of Articulation: Signal Processing in Live Performance • S. Thorn & X.W. Sha  
-- 2019 — ICMC — A Haptic-Feedback Shoulder Rest for the Hybrid Violin • S. Thorn & B. Lahey  
-- 2018 — NIME — Alto.glove: New Techniques for Augmented Violin  
+- 2025 — NIME — [Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping](https://nime.org/proceedings/2025/nime2025_30.pdf) • S. Thorn et al.  
+- 2025 — ICMC 50th Anniversary, Boston MA — [Coding Modular with Max/Gen: A Eurorack System for Violin Improvisation](https://nime2025.org/assets/preprints/nime2025_music_preprint_79.pdf)  
+- 2022 — NIME — [Decolonizing the Violin with Active Shoulder Rests](https://nime.org/proc/nime22_20/) • S. Thorn & B. Lahey  
+- 2020 — ACM Movement & Computing — [Processual and Experiential Design in Wearable Music Workshopping](https://doi.org/10.1145/3401956.3404235) • S. Thorn, H. Willcox, X.W. Sha  
+- 2019 — ACM Movement & Computing — [Instruments of Articulation: Signal Processing in Live Performance](https://doi.org/10.1145/3347122.3347133) • S. Thorn & X.W. Sha  
+- 2019 — ICMC — [A Haptic-Feedback Shoulder Rest for the Hybrid Violin](https://www.academia.edu/43534430/A_Haptic_Feedback_Shoulder_Rest_for_the_Hybrid_Violin) • S. Thorn & B. Lahey  
+- 2018 — NIME — [Alto.glove: New Techniques for Augmented Violin](https://doi.org/10.5281/zenodo.1302603)  
 
 # VIII. Refereed Conference Publications (Short Papers / Posters / Extended Abstracts)
-- 2025 — ACM Creativity & Cognition (Arts Track, Virtual / London) — Diffractive Constellations: Activating Human-Machine Co-Creation in Violin Performance through Embedded Modular Coding  
+- 2025 — ACM Creativity & Cognition (Arts Track, Virtual / London) — [Diffractive Constellations: Activating Human-Machine Co-Creation in Violin Performance through Embedded Modular Coding](https://doi.org/10.1145/3698061.3726942)  
 - 2022 — IEEE RESPECT — Co-Design of Wearable Music Curriculum for Transversal Neurodiverse Computational Thinking • S. Thorn et al.  
-- 2021 — ACM Audio Mostly (*Best Poster Award*) — Telematic Wearable Music: Remote Ensembles and Inclusive Embodied Education  
+- 2021 — ACM Audio Mostly (*Best Poster Award*) — [Telematic Wearable Music: Remote Ensembles and Inclusive Embodied Education](https://www.researchgate.net/publication/353526127_Telematic_Wearable_Music_Remote_Ensembles_and_Inclusive_Embodied_Education)  
 - 2021 — XCOAX — Machinic Intersection: Not—Yet—Chaconne  
 - 2020 — ACM Movement & Computing — Hybrid Violin Performance: Model-Free, Abductive Experiment  
-- 2019 — ACM Creativity & Cognition — Signal Processing as Practice: Trial-and-Error Revision of the Sensorimotor Dynamics of a Hybrid Violin  
-- 2019 — ACM Tangible, Embodied and Embedded Interactions — Transference: A Hybrid Computational System for Improvised Violin Performance  
+- 2019 — ACM Creativity & Cognition — [Signal Processing as Practice: Trial-and-Error Revision of the Sensorimotor Dynamics of a Hybrid Violin](https://doi.org/10.1145/3325480.3326551)  
+- 2019 — ACM Tangible, Embodied and Embedded Interactions — [Transference: A Hybrid Computational System for Improvised Violin Performance](https://www.researchgate.net/publication/331799598_Transference_A_Hybrid_Computational_System_for_Improvised_Violin_Performance)  
 
-# IX. Refereed Workshops
-- 2019 — ACM Tangible, Embodied, and Embedded Interactions — Composing Ecosystemically in Responsive Environments with Gestural Media, Objects, and Textures • B. Metchley et al.  
-- 2019 — ACM Movement & Computing — Co-constructing Events in Responsive Environments • X.W. Sha et al.  
+# IX. Refereed Workshops  
+- 2019 — ACM Tangible, Embodied, and Embedded Interactions — [Composing Ecosystemically in Responsive Environments with Gestural Media, Objects, and Textures](https://doi.org/10.1145/3294109.3295660) • B. Metchley et al. :contentReference[oaicite:0]{index=0}  
+- 2019 — ACM Movement & Computing — [Co-constructing Events in Responsive Environments](https://www.academia.edu/72508098/Co_constructing_Events_in_Responsive_Environments_Co_constructing_Events_in_Responsive_Environments) • X.W. Sha et al. :contentReference[oaicite:1]{index=1}  
 
-# X. Refereed Panels
-- 2023 — CUNY Neurodiversity Conference — Neurodiversity as a baseline in STEM education research • M. Koro et al.  
-- 2022 — IEEE RESPECT (Panel) — Partnerships built for equity: Neurodivergent learners and the use of CT • M. Koro et al.  
+# X. Refereed Panels  
+- 2023 — CUNY Neurodiversity Conference — [Neurodiversity as a Baseline in STEM Education Research](https://neurodiversitycenter.org/wp-content/uploads/cuny-neurodiversity-conference-2023-slides.pdf) • M. Koro et al. :contentReference[oaicite:2]{index=2}  
+- 2022 — IEEE RESPECT (Panel) — [Partnerships Built for Equity: Neurodivergent Learners and the Use of CT](https://respect2022.stcbp.org/attendees/accepted-submissions/) • M. Koro et al. :contentReference[oaicite:3]{index=3}  
 
-# XI. Commissioned Translations
-- 2014 — *Qui Parle* (UC Berkeley) — Christoph Menke, The Aesthetic Possibility of the Work of Art  
+# XI. Commissioned Translations  
+- 2014 — *Qui Parle* (UC Berkeley) — Christoph Menke, *The Aesthetic Possibility of the Work of Art*
 
 # XII. Awards & Recognition
 - 2024 — Inaugural Teaching Innovation Award (Peer-Selected), School of Arts, Media and Engineering, ASU  
