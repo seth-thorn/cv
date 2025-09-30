@@ -116,15 +116,22 @@ title: "Seth D. Thorn — Curriculum Vitae"
 # XVI. Media / Press / Reviews
 ## Albums
 - 2025 — *A Curious Doubling of Terms* (Audiobulb Records UK)  
-  - ChainDLK (review) — “Feels like a diary written half in moss, half in binary … bowed strings rubbing against the algorithmic churn.”  
-  - Igloo Magazine (review) — “A standout in 2025’s ambient landscape … combining bowed strings, granular synthesis, and hushed rhythms … intimate pieces where silence, shimmer, and circuitry intertwine.”  
-  - Musique Machine (review) — “Parades all of his talents … fans of expertly crafted improvisation with acoustic and electronics will appreciate Thorn’s attention to detail and pacing.”  
-  - Silence and Sound (review) — “A delicate album … superb” (translated from French)  
-  - BBC Radio 3 — Night Tracks (radio) — Hosted by Hannah Peel  
-  - Radio Free FM (radio) — playlisted  
-  - WRUV — The Floating Head of Zsa Zsa (radio) — Aug 19, 2025, broadcast by Laima Harmon  
-  - A Closer Listen — Fall Music Preview — listed among the season’s “incredible crop of music.”  
-  - DaMusic — Schemerzone — included in international new music roundup  
+
+  **Reviews / Mentions**  
+  - [ChainDLK review](https://www.chaindlk.com/reviews/seth-thorn-a-curious-doubling-of-terms-audiobulb/) — “Feels like a diary written half in moss, half in binary … bowed strings rubbing against the algorithmic churn.”  
+  - [Igloo Magazine review](https://igloomag.com/reviews/seth-thorn-a-curious-doubling-of-terms-audiobulb) — “A standout in 2025’s ambient landscape … combining bowed strings, granular synthesis, and hushed rhythms … intimate pieces where silence, shimmer, and circuitry intertwine.”  
+  - [Musique Machine review](https://www.musiquemachine.com/reviews/seth-thorn-a-curious-doubling-of-terms/) — “Parades all of his talents … fans of expertly crafted improvisation with acoustic and electronics will appreciate Thorn’s attention to detail and pacing.”  
+  - [Silence and Sound review](https://silenceandsound.me/2025/07/14/seth-thorn-a-curious-doubling-of-terms/) — “A delicate album … superb” (translated from French)  
+  - [A Closer Listen — Fall Music Preview](https://acloserlisten.com/2025/09/01/fall-music-preview-2025/) — Listed among the season’s “incredible crop of music.”  
+  - [DaMusic — Schemerzone](https://damusic.be/schemerzone/seth-thorn-a-curious-doubling-of-terms) — Included in international new music roundup  
+
+  **Radio Broadcasts**  
+  - [BBC Radio 3 — Night Tracks](https://www.bbc.co.uk/programmes/m002jfr9) — Hosted by Hannah Peel  
+    - Broadcast: Monday, Sept 22, 2025, 22:00 (BBC Radio 3 Unwind)
+    - Rebroadcast: Friday, Oct 17, 2025, 22:00 (BBC Radio 3 Unwind)  
+  - [Radio Free FM](https://www.freefm.de/artikel/st484) — Playlisted broadcast feature, Sept 2025  
+  - [WRUV — *The Floating Head of Zsa Zsa*](https://spinitron.com/WRUV/show/82373/The-Floating-Head-of-Zsa-Zsa) — Tuesday, Aug 19, 2025, 10:26 a.m., broadcast by Laima Harmon  
+  - [Radio Bandito — Sleep Dose #141](https://www.radiobandito.it) — Wednesday, Sept 24, 2025, 22:00, broadcast feature (featuring *A Curious Doubling of Terms* alongside works by Ran Slavin, Etceteral, Phenomenal World, Kaukolampi, IKI, Jessica Moss, M. Sage, Liv Andrea Hauge Trio, Treen, Goose Green, Raphael Loher, Alessandro Bosetti, David Lee Myers, Slomo, Larum)  
 
 ## University Features and News
 - 2024 — [Full Circle: Circuit Bending Connects Computer Science and Creativity](https://fullcircle.asu.edu/stories/circuit-bending-connects-computer-science-and-creativity/)  
