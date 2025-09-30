@@ -66,12 +66,12 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2019 — ACM Tangible, Embodied and Embedded Interactions — [Transference: A Hybrid Computational System for Improvised Violin Performance](https://www.researchgate.net/publication/331799598_Transference_A_Hybrid_Computational_System_for_Improvised_Violin_Performance)  
 
 # IX. Refereed Workshops  
-- 2019 — ACM Tangible, Embodied, and Embedded Interactions — [Composing Ecosystemically in Responsive Environments with Gestural Media, Objects, and Textures](https://doi.org/10.1145/3294109.3295660) • B. Metchley et al. :contentReference[oaicite:0]{index=0}  
-- 2019 — ACM Movement & Computing — [Co-constructing Events in Responsive Environments](https://www.academia.edu/72508098/Co_constructing_Events_in_Responsive_Environments_Co_constructing_Events_in_Responsive_Environments) • X.W. Sha et al. :contentReference[oaicite:1]{index=1}  
+- 2019 — ACM Tangible, Embodied, and Embedded Interactions — [Composing Ecosystemically in Responsive Environments with Gestural Media, Objects, and Textures](https://doi.org/10.1145/3294109.3295660) • B. Metchley et al.
+- 2019 — ACM Movement & Computing — [Co-constructing Events in Responsive Environments](https://www.academia.edu/72508098/Co_constructing_Events_in_Responsive_Environments_Co_constructing_Events_in_Responsive_Environments) • X.W. Sha et al.
 
 # X. Refereed Panels  
-- 2023 — CUNY Neurodiversity Conference — [Neurodiversity as a Baseline in STEM Education Research](https://neurodiversitycenter.org/wp-content/uploads/cuny-neurodiversity-conference-2023-slides.pdf) • M. Koro et al. :contentReference[oaicite:2]{index=2}  
-- 2022 — IEEE RESPECT (Panel) — [Partnerships Built for Equity: Neurodivergent Learners and the Use of CT](https://respect2022.stcbp.org/attendees/accepted-submissions/) • M. Koro et al. :contentReference[oaicite:3]{index=3}  
+- 2023 — CUNY Neurodiversity Conference — [Neurodiversity as a Baseline in STEM Education Research](https://neurodiversitycenter.org/wp-content/uploads/cuny-neurodiversity-conference-2023-slides.pdf) • M. Koro et al.
+- 2022 — IEEE RESPECT (Panel) — [Partnerships Built for Equity: Neurodivergent Learners and the Use of CT](https://respect2022.stcbp.org/attendees/accepted-submissions/) • M. Koro et al.
 
 # XI. Commissioned Translations  
 - 2014 — *Qui Parle* (UC Berkeley) — Christoph Menke, *The Aesthetic Possibility of the Work of Art*
