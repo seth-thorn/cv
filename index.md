@@ -136,15 +136,15 @@ title: "Seth D. Thorn — Curriculum Vitae"
 ## University Features and News
 
 **ASU Features — Primary Focus**  
-- 2024 — [ASU News — “Circuit Bending Connects Computer Science and Creativity”](https://fullcircle.asu.edu/stories/circuit-bending-connects-computer-science-and-creativity/) — Aug 2, 2024 (coverage of your circuit-bending pedagogy and research)  
-- 2023 — [ASU News — “Feeling the Sound”](https://thrive.asu.edu/feeling-the-sound) — Aug 28, 2023 (feature on your haptic shoulder rest and musical research)  
-- 2020 — [ASU News — “ASU faculty awarded patent for shoulder rest that lets violinists feel the sound”](https://news.asu.edu/20200716-asu-faculty-awarded-patent-shoulder-rest-lets-violinists-feel-sound) — Jul 16, 2020 (coverage of your U.S. patent)  
+- 2024 — [ASU News — “Circuit Bending Connects Computer Science and Creativity”](https://fullcircle.asu.edu/stories/circuit-bending-connects-computer-science-and-creativity/) — Aug 2, 2024  
+- 2023 — [ASU News — “Feeling the Sound”](https://thrive.asu.edu/feeling-the-sound) — Aug 28, 2023  
+- 2020 — [ASU News — “ASU faculty awarded patent for shoulder rest that lets violinists feel the sound”](https://news.asu.edu/20200716-asu-faculty-awarded-patent-shoulder-rest-lets-violinists-feel-sound) — Jul 16, 2020  
 
-**ASU Features — Secondary Mentions**
-- 2025 — [ASU News — “How art and technology attracted this Minnesota artist to ASU”](https://news.asu.edu/20250428-sun-devil-community-drawn-innovation-how-art-and-technology-attracted-minnesota-artist-asu) — Apr 28, 2025 (student profile highlighting your mentorship)  
-- 2023 — [ASU News — “ASU Student Combines Passions for Performance and Technology”](https://news.asu.edu/20230420-asu-student-combines-passions-performance-and-technology) — Apr 20, 2023 (student-centered feature where your teaching is referenced)  
-- 2019 — [Arizona Republic — “ASU President Michael Crow: innovator and disruptor”](https://www.azcentral.com/story/news/local/arizona-education/2019/asu-president-michael-crow-innovator-disruptor/3195021/) — 2019 (broader institutional piece with a passing mention of your program)  
-- 2018 — [ASU News — “ASU Musicians Showcase Creativity in Electronic Music”](https://usenate.asu.edu/asu-musicians-showcase-creativity-electronic-music) — Jan 18, 2018 (performance showcase where you are one of several faculty participants)  
+**ASU Features — Secondary Mentions**  
+- 2025 — [ASU News — “How art and technology attracted this Minnesota artist to ASU”](https://news.asu.edu/20250428-sun-devil-community-drawn-innovation-how-art-and-technology-attracted-minnesota-artist-asu) — Apr 28, 2025  
+- 2023 — [ASU News — “ASU Student Combines Passions for Performance and Technology”](https://news.asu.edu/20230420-asu-student-combines-passions-performance-and-technology) — Apr 20, 2023  
+- 2019 — [Arizona Republic — “ASU President Michael Crow: innovator and disruptor”](https://www.azcentral.com/story/news/local/arizona-education/2019/asu-president-michael-crow-innovator-disruptor/3195021/) — 2019  
+- 2018 — [ASU News — “ASU Musicians Showcase Creativity in Electronic Music”](https://usenate.asu.edu/asu-musicians-showcase-creativity-electronic-music) — Jan 18, 2018  
 - 2018 — *HIDA Disrupt Magazine 1* — “Digital Culture,” Arizona State University — 2018  
 
 ## External Features
@@ -153,7 +153,7 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2023 — [Wearable Music Interview (KJZZ/NPR)](https://kjzz.org/content/wearable-music-interview) — 2023  
 
 ## Books / Scholarly References
-- 2020 — *The Art of Digital Orchestration* (Taylor & Francis) — 2020  
+- 2020 — *The Art of Digital Orchestration* (Taylor & Francis) — 2020
 
 # XVII. Teaching
 ## New & Redeveloped Courses
