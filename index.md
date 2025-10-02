@@ -49,7 +49,7 @@ title: "Seth D. Thorn — Curriculum Vitae"
 
 # VII. Refereed Conference Publications (Long Papers)
 - 2025 — NIME — [Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping](https://nime.org/proceedings/2025/nime2025_30.pdf) • S. Thorn et al.  
-- 2025 — ICMC 50th Anniversary, Boston MA — [Coding Modular with Max/Gen: A Eurorack System for Violin Improvisation]([https://nime2025.org/assets/preprints/nime2025_music_preprint_79.pdf](https://www.researchgate.net/publication/391769871_Coding_Modular_with_MaxGen_A_Eurorack_System_for_Violin_Improvisation)  
+- 2025 — ICMC 50th Anniversary, Boston MA — [Coding Modular with Max/Gen: A Eurorack System for Violin Improvisation](https://www.researchgate.net/publication/391769871_Coding_Modular_with_MaxGen_A_Eurorack_System_for_Violin_Improvisation)  
 - 2022 — NIME — [Decolonizing the Violin with Active Shoulder Rests](https://nime.org/proc/nime22_20/) • S. Thorn & B. Lahey  
 - 2020 — ACM Movement & Computing — [Processual and Experiential Design in Wearable Music Workshopping](https://doi.org/10.1145/3401956.3404235) • S. Thorn, H. Willcox, X.W. Sha  
 - 2019 — ACM Movement & Computing — [Instruments of Articulation: Signal Processing in Live Performance](https://doi.org/10.1145/3347122.3347133) • S. Thorn & X.W. Sha  
