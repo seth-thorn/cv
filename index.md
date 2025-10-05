@@ -116,15 +116,19 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 
 # XVI. Media / Press / Reviews
 ## Albums
-- 2025 — *A Curious Doubling of Terms* (Audiobulb Records UK)  
+- 2025 — *A Curious Doubling of Terms* (Audiobulb Records UK)
+
+**Chart Features**
+- 2025 — “Metaphysics” (from *A Curious Doubling of Terms*) charted by AFTERLIFE on [Juno Download](https://www.junodownload.com/charts/dj/673168-AFTERLIFE/18721295-Chart/) (Oct 5, 2025)
 
   **Reviews / Mentions**  
   - [ChainDLK review](https://www.chaindlk.com/reviews/seth-thorn-a-curious-doubling-of-terms-audiobulb/) — “Feels like a diary written half in moss, half in binary … bowed strings rubbing against the algorithmic churn.”  
   - [Igloo Magazine review](https://igloomag.com/reviews/seth-thorn-a-curious-doubling-of-terms-audiobulb) — “A standout in 2025’s ambient landscape … combining bowed strings, granular synthesis, and hushed rhythms … intimate pieces where silence, shimmer, and circuitry intertwine.”  
   - [Musique Machine review](https://www.musiquemachine.com/reviews/seth-thorn-a-curious-doubling-of-terms/) — “Parades all of his talents … fans of expertly crafted improvisation with acoustic and electronics will appreciate Thorn’s attention to detail and pacing.”  
-  - [Silence and Sound review](https://silenceandsound.me/2025/07/14/seth-thorn-a-curious-doubling-of-terms/) — “A delicate album … superb” (translated from French)  
+  - [Silence and Sound review](https://silenceandsound.me/2025/07/14/seth-thorn-a-curious-doubling-of-terms/) — “A delicate album … superb” (translated from French)
+  - [The Slow Music Movement review](https://www.theslowmusicmovement.org/post/seth-thorn-a-curious-doubling-of-terms-audiobulb-ambient) — “A thought-provoking ambient work that blurs the boundaries between acoustic intimacy and electronic abstraction.”
   - [A Closer Listen — Fall Music Preview](https://acloserlisten.com/2025/09/01/fall-music-preview-2025/) — Listed among the season’s “incredible crop of music.”  
-  - [DaMusic — Schemerzone](https://damusic.be/schemerzone/seth-thorn-a-curious-doubling-of-terms) — Included in international new music roundup  
+  - [DaMusic — Schemerzone](https://damusic.be/schemerzone/seth-thorn-a-curious-doubling-of-terms) — Included in international new music roundup
 
   **Radio Broadcasts**  
   - [BBC Radio 3 — Night Tracks](https://www.bbc.co.uk/programmes/m002jfr9) — Hosted by Hannah Peel  
