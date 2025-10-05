@@ -119,7 +119,7 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2025 — *A Curious Doubling of Terms* (Audiobulb Records UK)
 
   **Chart Features**
-- 2025 — “Metaphysics” track charted by AFTERLIFE on [Juno Download](https://www.junodownload.com/charts/dj/673168-AFTERLIFE/18721295-Chart/) (Oct 5, 2025)
+  — “Metaphysics” track charted by AFTERLIFE on [Juno Download](https://www.junodownload.com/charts/dj/673168-AFTERLIFE/18721295-Chart/) (Oct 5, 2025)
 
   **Reviews / Mentions**  
   - [ChainDLK review](https://www.chaindlk.com/reviews/seth-thorn-a-curious-doubling-of-terms-audiobulb/) — “Feels like a diary written half in moss, half in binary … bowed strings rubbing against the algorithmic churn.”  
