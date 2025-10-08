@@ -136,7 +136,9 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
     - Rebroadcast: Friday, Oct 17, 2025, 22:00 (BBC Radio 3 Unwind)  
   - [Radio Free FM](https://www.freefm.de/artikel/st484) — Playlisted broadcast feature, Sept 2025  
   - [WRUV — *The Floating Head of Zsa Zsa*](https://spinitron.com/WRUV/show/82373/The-Floating-Head-of-Zsa-Zsa) — Tuesday, Aug 19, 2025, 10:26 a.m., broadcast by Laima Harmon  
-  - [Radio Bandito — Sleep Dose #141](https://www.radiobandito.it) — Wednesday, Sept 24, 2025, 22:00, broadcast feature (featuring *A Curious Doubling of Terms* alongside works by Ran Slavin, Etceteral, Phenomenal World, Kaukolampi, IKI, Jessica Moss, M. Sage, Liv Andrea Hauge Trio, Treen, Goose Green, Raphael Loher, Alessandro Bosetti, David Lee Myers, Slomo, Larum)  
+  - [Radio Bandito — Sleep Dose #141](https://www.radiobandito.it) — Wednesday, Sept 24, 2025, 22:00, broadcast feature (featuring *A Curious Doubling of Terms* alongside works by Ran Slavin, Etceteral, Phenomenal World, Kaukolampi, IKI, Jessica Moss, M. Sage, Liv Andrea Hauge Trio, Treen, Goose Green, Raphael Loher, Alessandro Bosetti, David Lee Myers, Slomo, Larum)
+  - [Radio FRO — *Fadimat105*](https://www.fro.at/fadimat105-october25/) — Saturday, Oct 25, 2025, 22:00 (Linz, Austria); curated and presented by Tanja Fieger
+ 
 ## University Features and News
 
 **ASU Features — Primary Focus**  
