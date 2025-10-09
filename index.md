@@ -213,11 +213,12 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2018 — Digital Culture Summer Institute (Course Development & Teaching)  
 
 # XXI. Paper and Grant Reviewer
-- 2025 — IEEE 5th Intl Symposium on Internet of Sounds (IS2 2024)  
-- 2024 — Book Reviewer, MIT Press (New Media series)  
-- 2024 — Journal of New Music Research  
-- 2024 — IEEE 5th Intl Symposium on Internet of Sounds (IS2 2024)  
-- 2023 — ACM TEI  
-- 2023 — 4th Intl Symposium on Internet of Sounds  
-- 2023 — Einstein Foundation (Berlin)  
-- 2022 — ACM Movement and Computing  
+- 2025 — CHI 2026 Papers Track — *ACM Conference on Human Factors in Computing Systems*  
+- 2025 — IEEE IS2 2025 Papers Track — *International Symposium on the Internet of Sounds* (IEEE)  
+- 2024 — Book Reviewer — *MIT Press, New Media Series*  
+- 2024 — *Journal of New Music Research* — Taylor & Francis  
+- 2024 — IEEE IS2 2024 Papers Track — *Program Committee, International Symposium on the Internet of Sounds* (IEEE)  
+- 2023 — ACM TEI 2024 Papers Track — *Tangible, Embedded, and Embodied Interaction* (ACM)  
+- 2023 — IS2 2023 — *International Symposium on the Internet of Sounds* (IEEE)  
+- 2023 — Einstein Foundation — *Berlin*  
+- 2022 — ACM MOCO 2023 Papers Track — *Movement and Computing Conference* (ACM)
