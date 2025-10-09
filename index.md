@@ -74,7 +74,7 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2022 — IEEE RESPECT (Panel) — [Partnerships Built for Equity: Neurodivergent Learners and the Use of CT](https://respect2022.stcbp.org/attendees/accepted-submissions/) • M. Koro et al.
 
 # XI. Commissioned Translations  
-- 2014 — *Qui Parle* (UC Berkeley) — Christoph Menke, *The Aesthetic Possibility of the Work of Art*
+- 2014 — *Qui Parle* (UC Berkeley) — Christoph Menke, [*The Aesthetic Possibility of the Work of Art*](https://read.dukeupress.edu/qui-parle/article-abstract/23/1/239/10275/The-Aesthetic-Possibility-of-the-Work-of-Art) ([JSTOR link](https://www.jstor.org/stable/10.5250/quiparle.23.1.0239))
 
 # XII. Awards & Recognition
 - 2024 — Inaugural Teaching Innovation Award (Peer-Selected), School of Arts, Media and Engineering, ASU  
