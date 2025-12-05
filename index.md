@@ -199,6 +199,8 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2021 — NSF REU Mentor: Frank Wang  
 
 # XIX. Program Committees
+- 2026 - Program Committee Member, ICMC (International Computer Music Conference)
+- 2026 — Program Committee Member, IEEE IS2 (International Symposium on the Internet of Sounds)  
 - 2025 — Program Committee Member, IEEE IS2 (International Symposium on the Internet of Sounds)  
 - 2024 — Program Committee Member, IEEE IS2 (recognized as IEEE conf in 2024)  
 - 2023 — Program Committee Member, IS2  
