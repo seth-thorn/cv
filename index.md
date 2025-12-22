@@ -134,9 +134,11 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 **Radio Broadcasts**  
   - [BBC Radio 3 — Night Tracks](https://www.bbc.co.uk/programmes/m002jfr9) — Hosted by Hannah Peel  
     - Broadcast: Monday, Sept 22, 2025, 22:00 (BBC Radio 3 Unwind)
-    - Rebroadcast: Friday, Oct 17, 2025, 22:00 (BBC Radio 3 Unwind)  
+    - Rebroadcast: Friday, Oct 17, 2025, 22:00 (BBC Radio 3 Unwind)
+  - [RAI Radio 3 — *Sei Gradi*](https://www.radio3.rai.it) — Thursday, Dec 18, 2025, 18:00 (Italy)  
+    - Featured *What Lies Before* from *A Curious Doubling of Terms* 
   - [RAI Radio 3 — *Sei Gradi*](https://www.radio3.rai.it) — Tuesday, Nov 4, 2025, 18:00 (Italy)  
-    - Featured *Metaphysics* from *A Curious Doubling of Terms* alongside works by Rokia Traoré, Amanda Palmer & The Grand Theft Orchestra, Edward Elgar, Linda Ronstadt, Gato Barbieri, and Roberta Flack & Donny Hathaway  
+    - Featured *Metaphysics* from *A Curious Doubling of Terms*
   - [Radio Free FM](https://www.freefm.de/artikel/st484) — Playlisted broadcast feature, Sept 2025  
   - [WRUV — *The Floating Head of Zsa Zsa*](https://spinitron.com/WRUV/show/82373/The-Floating-Head-of-Zsa-Zsa) — Tuesday, Aug 19, 2025, 10:26 a.m., broadcast by Laima Harmon  
   - [Radio Bandito — Sleep Dose #141](https://www.radiobandito.it) — Wednesday, Sept 24, 2025, 22:00, broadcast feature (featuring *A Curious Doubling of Terms* alongside works by Ran Slavin, Etceteral, Phenomenal World, Kaukolampi, IKI, Jessica Moss, M. Sage, Liv Andrea Hauge Trio, Treen, Goose Green, Raphael Loher, Alessandro Bosetti, David Lee Myers, Slomo, Larum)
