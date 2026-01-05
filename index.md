@@ -188,6 +188,7 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2019 – 2020 — Digital Culture Capstone I & II (Upper-level undergraduate)  
 
 # XVIII. Student Mentorship
+- 2025 — Faculty Advisor, Biosynth Co. (Ben Chatfield, Brodie Sheridan) — First Prize ($15,000 non-dilutive investment), ASU Venture Devils Fall 2025 Competition
 - 2025 — Honors Thesis Director: Kylie Stenke  
 - 2024 — PhD Chair: Shomit Barura  
 - 2024 — Project Advisor: Cody Carter (America’s Got Talent Preparation Project)  
