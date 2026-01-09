@@ -23,10 +23,11 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2007 — BA, Philosophy, Northwestern University  
 
 # III. Non-Academic Positions
-- 2022 – present — Founder & Principal, Matter Squared LLC  
-- 2025 – present — Glitch Cloud Audio LLC  
+- 2022 – present — Founder, Matter Squared LLC  
+- 2025 – present — Founder, Glitch Cloud Audio LLC  
 
 # IV. Funding
+- 2025 — ASU HIRBI Research Investment (PI), $8,000 — Glitch’n AI: From Musical Glitches to Hands-on Neural Computation for AI Literacy
 - 2024 — NSF AISL EAGER (PI 35%), $296,239 — [Youth-Led Community Learning: Enhancing Semiconductor Engagement through Musical Circuit Bending](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432637)  
 - 2024 — Venture Devils Demo Day Grant, $2,375 • Matter Squared LLC  
 - 2024 — Les Paul Foundation (Co-PI), $2,242 — Inventing Possibilities with Musical Circuits  
