@@ -174,7 +174,39 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 ## Books / Scholarly References
 - 2020 — *The Art of Digital Orchestration* (Taylor & Francis) — 2020
 
-# XVII. Teaching
+# XVII. Program Committees
+- 2026 - Program Committee Member, ICMC (International Computer Music Conference)
+- 2026 — Program Committee Member, IEEE IS2 (International Symposium on the Internet of Sounds)  
+- 2025 — Program Committee Member, IEEE IS2 (International Symposium on the Internet of Sounds)  
+- 2024 — Program Committee Member, IEEE IS2 (recognized as IEEE conf in 2024)  
+- 2023 — Program Committee Member, IS2  
+
+# XVIII. Academic Service (Internal)
+- 2024 – present — ASU Herberger Institute Graduate Curriculum Committee  
+- 2023 – present — Edson E+I Unit Entrepreneurship Liaison  
+  - Represented the School of Music, Dance and Theatre in cross-disciplinary entrepreneurship initiatives, including [Donuts and Entrepreneurship](https://entrepreneurship.asu.edu/events/2024/04/donuts-and-entrepreneurship/) (Apr 26, 2024)  
+- 2022 – 2025 — ASU Herberger Institute Research Committee  
+- 2021 – 2024 — Research Council, Herberger Institute (Rep., AME)  
+- 2022 – present — Faculty Advisor, Digital Culture Underground  
+- 2021 — Canal Convergence 2021: Art & Technology, Scottsdale  
+- 2019 — YESW Workshop, Fulton Schools of Engineering, ASU  
+- 2019 — Digital Culture Summer Institute (Course Development & Teaching)  
+- 2018 — Digital Culture Summer Institute (Course Development & Teaching)  
+
+# IXX. Paper and Grant Reviewer
+- 2026 - ICMC (International Computer Music Conference)
+- 2026 — IEEE IS2 (International Symposium on the Internet of Sounds)   
+- 2025 — CHI 2026 Papers Track — *ACM Conference on Human Factors in Computing Systems*  
+- 2025 — IEEE IS2 2025 Papers Track — *International Symposium on the Internet of Sounds* (IEEE)  
+- 2024 — Book Reviewer — *MIT Press, New Media Series*  
+- 2024 — *Journal of New Music Research* — Taylor & Francis  
+- 2024 — IEEE IS2 2024 Papers Track — *Program Committee, International Symposium on the Internet of Sounds* (IEEE)  
+- 2023 — ACM TEI 2024 Papers Track — *Tangible, Embedded, and Embodied Interaction* (ACM)  
+- 2023 — IS2 2023 — *International Symposium on the Internet of Sounds* (IEEE)  
+- 2023 — Einstein Foundation — *Berlin*  
+- 2022 — ACM MOCO 2023 Papers Track — *Movement and Computing Conference* (ACM)
+
+# XX. Teaching
 ## New & Redeveloped Courses
 - Wearable Music (2021–present) — Upper-level undergraduate  
 - Computational Thinking for Media Arts and Sciences (2020–present) — Lower-level undergraduate  
@@ -188,7 +220,7 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2018 – 2019 — Composing and Performing for Hybrid Ensembles (Upper-level undergraduate)  
 - 2019 – 2020 — Digital Culture Capstone I & II (Upper-level undergraduate)  
 
-# XVIII. Student Mentorship
+# XXI. Student Mentorship
 - 2025 — Faculty Advisor, Biosynth Co. (Ben Chatfield, Brodie Sheridan) — First Prize ($15,000 non-dilutive investment), ASU Venture Devils Fall 2025 Competition
 - 2025 — Honors Thesis Director: Kylie Stenke  
 - 2024 — PhD Chair: Shomit Barura  
@@ -201,35 +233,3 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2022 — Honors Thesis Director: Julian Voitek  
 - 2021 — Honors Thesis Reader: Isabel Estes  
 - 2021 — NSF REU Mentor: Frank Wang  
-
-# XIX. Program Committees
-- 2026 - Program Committee Member, ICMC (International Computer Music Conference)
-- 2026 — Program Committee Member, IEEE IS2 (International Symposium on the Internet of Sounds)  
-- 2025 — Program Committee Member, IEEE IS2 (International Symposium on the Internet of Sounds)  
-- 2024 — Program Committee Member, IEEE IS2 (recognized as IEEE conf in 2024)  
-- 2023 — Program Committee Member, IS2  
-
-# XX. Academic Service (Internal)
-- 2024 – present — ASU Herberger Institute Graduate Curriculum Committee  
-- 2023 – present — Edson E+I Unit Entrepreneurship Liaison  
-  - Represented the School of Music, Dance and Theatre in cross-disciplinary entrepreneurship initiatives, including [Donuts and Entrepreneurship](https://entrepreneurship.asu.edu/events/2024/04/donuts-and-entrepreneurship/) (Apr 26, 2024)  
-- 2022 – 2025 — ASU Herberger Institute Research Committee  
-- 2021 – 2024 — Research Council, Herberger Institute (Rep., AME)  
-- 2022 – present — Faculty Advisor, Digital Culture Underground  
-- 2021 — Canal Convergence 2021: Art & Technology, Scottsdale  
-- 2019 — YESW Workshop, Fulton Schools of Engineering, ASU  
-- 2019 — Digital Culture Summer Institute (Course Development & Teaching)  
-- 2018 — Digital Culture Summer Institute (Course Development & Teaching)  
-
-# XXI. Paper and Grant Reviewer
-- 2026 - ICMC (International Computer Music Conference)
-- 2026 — IEEE IS2 (International Symposium on the Internet of Sounds)   
-- 2025 — CHI 2026 Papers Track — *ACM Conference on Human Factors in Computing Systems*  
-- 2025 — IEEE IS2 2025 Papers Track — *International Symposium on the Internet of Sounds* (IEEE)  
-- 2024 — Book Reviewer — *MIT Press, New Media Series*  
-- 2024 — *Journal of New Music Research* — Taylor & Francis  
-- 2024 — IEEE IS2 2024 Papers Track — *Program Committee, International Symposium on the Internet of Sounds* (IEEE)  
-- 2023 — ACM TEI 2024 Papers Track — *Tangible, Embedded, and Embodied Interaction* (ACM)  
-- 2023 — IS2 2023 — *International Symposium on the Internet of Sounds* (IEEE)  
-- 2023 — Einstein Foundation — *Berlin*  
-- 2022 — ACM MOCO 2023 Papers Track — *Movement and Computing Conference* (ACM)
