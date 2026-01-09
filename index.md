@@ -222,6 +222,8 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2018 — Digital Culture Summer Institute (Course Development & Teaching)  
 
 # XXI. Paper and Grant Reviewer
+- 2026 - ICMC (International Computer Music Conference)
+- 2026 — IEEE IS2 (International Symposium on the Internet of Sounds)   
 - 2025 — CHI 2026 Papers Track — *ACM Conference on Human Factors in Computing Systems*  
 - 2025 — IEEE IS2 2025 Papers Track — *International Symposium on the Internet of Sounds* (IEEE)  
 - 2024 — Book Reviewer — *MIT Press, New Media Series*  
