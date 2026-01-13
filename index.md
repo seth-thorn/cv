@@ -167,6 +167,7 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2024 — ASU Learning Sparks — [Wearable Music](https://sparks.learning.asu.edu/videos/wearable-music)  
 
 ## External Features
+- 2025 — [Igloo Magazine — *Best of 2025*](https://igloomag.com/features/best-of-2025) — 2025
 - 2023 — [Electronic Sound Magazine (UK), Issue 100](https://electronicsound.co.uk/product/issue-100-pdf-edition/) — 2023  
 - 2023 — [Immersive Violin Interview (KJZZ/NPR)](https://kjzz.org/content/immersive-violin-interview) — 2023  
 - 2023 — [Wearable Music Interview (KJZZ/NPR)](https://kjzz.org/content/wearable-music-interview) — 2023  
