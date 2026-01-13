@@ -61,6 +61,7 @@ Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of R
 - 2018 — NIME — [Alto.glove: New Techniques for Augmented Violin](https://doi.org/10.5281/zenodo.1302603)  
 
 # VIII. Refereed Conference Publications (Short Papers / Posters / Extended Abstracts)
+- 2025 — NIME (Music Track), Canberra, Australia — [Diffractive Constellations: A Modular System for Acoustic Violin Programmed in Max/Gen](http://nime.org/proceedings/2025/nime2025_music_9.pdf) • S. Thorn (Remote Performance)
 - 2025 — ACM Creativity & Cognition (Arts Track, Virtual / London) — [Diffractive Constellations: Activating Human-Machine Co-Creation in Violin Performance through Embedded Modular Coding](https://doi.org/10.1145/3698061.3726942)  
 - 2022 — IEEE RESPECT — Co-Design of Wearable Music Curriculum for Transversal Neurodiverse Computational Thinking • S. Thorn et al.  
 - 2021 — ACM Audio Mostly (*Best Poster Award*) — [Telematic Wearable Music: Remote Ensembles and Inclusive Embodied Education](https://www.researchgate.net/publication/353526127_Telematic_Wearable_Music_Remote_Ensembles_and_Inclusive_Embodied_Education)  
