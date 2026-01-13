@@ -39,9 +39,12 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2019 — ASU HIRBI Research Investment (PI), $4,500 — Real-time Computational Photographic Analysis of the Violin  
 
 # V. Awarded and Pending Patents
-- 2023 — U.S. Utility Patent Application — Method for Actuating Instruments with an End-Pin  
-- 2023 — PCT Patent Application — Active Shoulder Rest • S. Thorn et al.  
-- 2022 — Issued U.S. Patent — Shoulder Rest with Haptic Feedback  
+- 2024 — U.S. Patent Application — *Acoustic Augmentation of Musical Instruments with an End-Pin* (Publication No. US20240257788A1)  
+Inventor: Seth D. Thorn • Filed Dec 8, 2023 • Published Aug 1, 2024 • Assignee: Arizona Board of Regents on behalf of Arizona State University
+- 2024 — U.S. Patent Application — *Active Violin Shoulder Rests* (Publication No. US20240414461A1)  
+Inventor: Seth D. Thorn et al. • Filed Aug 19, 2024 • Published Dec 12, 2024 • Assignee: Arizona Board of Regents on behalf of Arizona State University
+- 2020 — Issued U.S. Patent — *Shoulder Rest with Haptic Feedback* (Publication No. US20200394987A1)  
+Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of Regents on behalf of Arizona State University
 
 # VI. Refereed Journal Articles
 - 2022 — *Wearable Technologies* • Cambridge University Press — [Collectively Playable Wearable Music: Practice-situated approaches to participatory relational inquiry](https://doi.org/10.1017/wtc.2021.19)  
