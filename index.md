@@ -187,6 +187,7 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 
 # XVIII. Academic Service (Internal)
 - 2024 – present — ASU Herberger Institute Graduate Curriculum Committee  
+- 2024 – present — ASU Herberger Institute Graduate Curriculum Committee  
 - 2023 – present — Edson E+I Unit Entrepreneurship Liaison  
   - Represented the School of Music, Dance and Theatre in cross-disciplinary entrepreneurship initiatives, including [Donuts and Entrepreneurship](https://entrepreneurship.asu.edu/events/2024/04/donuts-and-entrepreneurship/) (Apr 26, 2024)  
 - 2022 – 2025 — ASU Herberger Institute Research Committee  
@@ -226,7 +227,7 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 
 # XXI. Student Mentorship
 - 2025 — Faculty Advisor, Biosynth Co. (Ben Chatfield, Brodie Sheridan) — First Prize ($15,000 non-dilutive investment), ASU Venture Devils Fall 2025 Competition
-- 2025 — Honors Thesis Director: Kylie Stenke  
+- 2025 — Honors Thesis Director: Kylie Stenke (Computer Science)
 - 2024 — PhD Chair: Shomit Barura  
 - 2024 — Project Advisor: Cody Carter (America’s Got Talent Preparation Project)  
 - 2023 — DMA Co-Chair: Julian Nguyen (with Jonathan Swartz)  
