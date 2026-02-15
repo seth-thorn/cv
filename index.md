@@ -120,64 +120,77 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2018 — SPLICE Festival • WMU, Kalamazoo  
 
 # XVI. Media / Press / Reviews
+
 ## Albums
-- 2025 — *A Curious Doubling of Terms* (Audiobulb Records UK)
+- 2025 — *A Curious Doubling of Terms* (Audiobulb Records, UK)
 
-  **Chart Features**
-  — “Metaphysics” track charted by AFTERLIFE on [Juno Download]([https://www.junodownload.com/charts/dj/673168-AFTERLIFE/18721295-Chart/](https://www.junodownload.com/charts/dj/673168-dj/23490242-Chart) (Oct 5, 2025)
-  — “Metaphysics” track charted by AFTERLIFE on [Juno Download]([https://www.junodownload.com/charts/dj/673168-AFTERLIFE/18721295-Chart/](https://www.junodownload.com/charts/dj/673168-dj/23590756-Chart)(https://www.junodownload.com/charts/dj/673168-dj/23490242-Chart](https://www.junodownload.com/charts/dj/673168-dj/23590756-Chart) (Dec 1, 2025)
+### Chart Features
+- “Metaphysics” charted by AFTERLIFE — Juno Download  
+  - Oct 5, 2025  
+  - Dec 1, 2025  
 
-  **Reviews / Mentions**  
-  - [ChainDLK review](https://www.chaindlk.com/reviews/seth-thorn-a-curious-doubling-of-terms-audiobulb/) — “Feels like a diary written half in moss, half in binary … bowed strings rubbing against the algorithmic churn.”  
-  - [Igloo Magazine review](https://igloomag.com/reviews/seth-thorn-a-curious-doubling-of-terms-audiobulb) — “A standout in 2025’s ambient landscape … combining bowed strings, granular synthesis, and hushed rhythms … intimate pieces where silence, shimmer, and circuitry intertwine.”  
-  - [Musique Machine review](https://www.musiquemachine.com/reviews/seth-thorn-a-curious-doubling-of-terms/) — “Parades all of his talents … fans of expertly crafted improvisation with acoustic and electronics will appreciate Thorn’s attention to detail and pacing.”  
-  - [Silence and Sound review](https://silenceandsound.me/2025/07/14/seth-thorn-a-curious-doubling-of-terms/) — “A delicate album … superb” (translated from French)
-  - [The Slow Music Movement review](https://www.theslowmusicmovement.org/post/seth-thorn-a-curious-doubling-of-terms-audiobulb-ambient) — “A thought-provoking ambient work that blurs the boundaries between acoustic intimacy and electronic abstraction.”
-  - [A Closer Listen — Fall Music Preview](https://acloserlisten.com/2025/09/01/fall-music-preview-2025/) — Listed among the season’s “incredible crop of music.”  
-  - [DaMusic — Schemerzone](https://damusic.be/schemerzone/seth-thorn-a-curious-doubling-of-terms) — Included in international new music roundup
+### Reviews / Mentions
+- [ChainDLK](https://www.chaindlk.com/reviews/seth-thorn-a-curious-doubling-of-terms-audiobulb/) — “Feels like a diary written half in moss, half in binary … bowed strings rubbing against the algorithmic churn.”  
+- [Igloo Magazine](https://igloomag.com/reviews/seth-thorn-a-curious-doubling-of-terms-audiobulb) — “A standout in 2025’s ambient landscape … combining bowed strings, granular synthesis, and hushed rhythms.”  
+- [Musique Machine](https://www.musiquemachine.com/reviews/seth-thorn-a-curious-doubling-of-terms/) — “Parades all of his talents … expertly crafted improvisation with acoustic and electronics.”  
+- [Silence and Sound](https://silenceandsound.me/2025/07/14/seth-thorn-a-curious-doubling-of-terms/) — “A delicate album … superb.”  
+- [The Slow Music Movement](https://www.theslowmusicmovement.org/post/seth-thorn-a-curious-doubling-of-terms-audiobulb-ambient) — “A thought-provoking ambient work blurring acoustic intimacy and electronic abstraction.”  
+- [A Closer Listen — Fall Music Preview 2025](https://acloserlisten.com/2025/09/01/fall-music-preview-2025/) — Listed among the season’s notable releases.  
+- [DaMusic — Schemerzone](https://damusic.be/schemerzone/seth-thorn-a-curious-doubling-of-terms) — Included in international new-music roundup.
 
-**Radio Broadcasts**  
-  - [BBC Radio 3 — Night Tracks](https://www.bbc.co.uk/programmes/m002jfr9) — Hosted by Hannah Peel  
-    - Broadcast: Monday, Sept 22, 2025, 22:00 (BBC Radio 3 Unwind)
-    - Rebroadcast: Friday, Oct 17, 2025, 22:00 (BBC Radio 3 Unwind)
-  - [RAI Radio 3 — *Sei Gradi*](https://www.radio3.rai.it) — Thursday, Dec 18, 2025, 18:00 (Italy)  
-    - Featured *What Lies Before* from *A Curious Doubling of Terms* 
-  - [RAI Radio 3 — *Sei Gradi*](https://www.radio3.rai.it) — Tuesday, Nov 4, 2025, 18:00 (Italy)  
-    - Featured *Metaphysics* from *A Curious Doubling of Terms*
-  - [Radio Free FM](https://www.freefm.de/artikel/st484) — Playlisted broadcast feature, Sept 2025  
-  - [WRUV — *The Floating Head of Zsa Zsa*](https://spinitron.com/WRUV/show/82373/The-Floating-Head-of-Zsa-Zsa) — Tuesday, Aug 19, 2025, 10:26 a.m., broadcast by Laima Harmon  
-  - [Radio Bandito — Sleep Dose #141](https://www.radiobandito.it) — Wednesday, Sept 24, 2025, 22:00, broadcast feature (featuring *A Curious Doubling of Terms* alongside works by Ran Slavin, Etceteral, Phenomenal World, Kaukolampi, IKI, Jessica Moss, M. Sage, Liv Andrea Hauge Trio, Treen, Goose Green, Raphael Loher, Alessandro Bosetti, David Lee Myers, Slomo, Larum)
-  - [Radio FRO — *Fadimat105*](https://www.fro.at/fadimat105-october25/) — Saturday, Oct 25, 2025, 22:00 (Linz, Austria); curated and presented by Tanja Fieger
- 
+## Year-End Best-Of Lists
+- 2025 — *Best Ambient of 2025* — [Post Ambient Lux](https://postambientlux.tumblr.com/post/802731611891400704/best-ambient-of-2025)  
+- 2025 — *Best of 2025 Albums* — Gert De Meester (Belgium)  
+  - Ranked #3: *A Curious Doubling of Terms* (Audiobulb Records)  
+- 2025 — *Best of 2025* — [Igloo Magazine](https://igloomag.com/features/best-of-2025)
+
+## Radio Broadcasts
+- [BBC Radio 3 — *Night Tracks*](https://www.bbc.co.uk/programmes/m002jfr9) — Hosted by Hannah Peel  
+  - Broadcast: Sept 22, 2025, 22:00 (BBC Radio 3 Unwind)  
+  - Rebroadcast: Oct 17, 2025, 22:00 (BBC Radio 3 Unwind)  
+- [RAI Radio 3 — *Sei Gradi*](https://www.radio3.rai.it) — Italy  
+  - Broadcast: Nov 4, 2025, 18:00 — “Metaphysics”  
+  - Broadcast: Dec 18, 2025, 18:00 — “What Lies Before”  
+- [CISM 89.3FM — *Symbiose*](https://cism893.ca) — Montréal, Québec  
+  - Broadcast: Jan 4, 2026, 22:00  
+  - Featured track: “Taking To Heart”  
+- [Radio Free FM](https://www.freefm.de/artikel/st484) — Playlisted broadcast feature, Sept 2025  
+- [WRUV — *The Floating Head of Zsa Zsa*](https://spinitron.com/WRUV/show/82373/The-Floating-Head-of-Zsa-Zsa)  
+  - Broadcast: Aug 19, 2025, 10:26 a.m. — Hosted by Laima Harmon  
+- [Radio Bandito — *Sleep Dose #141*](https://www.radiobandito.it)  
+  - Broadcast: Sept 24, 2025, 22:00 — Feature alongside works by Ran Slavin, Jessica Moss, M. Sage, David Lee Myers, et al.  
+- [Radio FRO — *Fadimat105*](https://www.fro.at/fadimat105-october25/) — Linz, Austria  
+  - Broadcast: Oct 25, 2025, 22:00 — Curated and presented by Tanja Fieger
+
 ## University Features and News
 
-**ASU Features — Primary Focus**  
+### ASU Features — Primary Focus
 - 2024 — [ASU News — “Circuit Bending Connects Computer Science and Creativity”](https://fullcircle.asu.edu/stories/circuit-bending-connects-computer-science-and-creativity/) — Aug 2, 2024  
 - 2023 — [ASU News — “Feeling the Sound”](https://thrive.asu.edu/feeling-the-sound) — Aug 28, 2023  
 - 2020 — [ASU News — “ASU faculty awarded patent for shoulder rest that lets violinists feel the sound”](https://news.asu.edu/20200716-asu-faculty-awarded-patent-shoulder-rest-lets-violinists-feel-sound) — Jul 16, 2020  
 
-**ASU Features — Secondary Mentions**  
+### ASU Features — Secondary Mentions
 - 2025 — [ASU News — “How art and technology attracted this Minnesota artist to ASU”](https://news.asu.edu/20250428-sun-devil-community-drawn-innovation-how-art-and-technology-attracted-minnesota-artist-asu) — Apr 28, 2025  
 - 2023 — [ASU News — “ASU Student Combines Passions for Performance and Technology”](https://news.asu.edu/20230420-asu-student-combines-passions-performance-and-technology) — Apr 20, 2023  
-- 2019 — [Arizona Republic — “ASU President Michael Crow: innovator and disruptor”](https://www.azcentral.com/story/news/local/arizona-education/2019/asu-president-michael-crow-innovator-disruptor/3195021/) — 2019  
+- 2019 — *Arizona Republic* — “ASU President Michael Crow: innovator and disruptor”  
 - 2018 — [ASU News — “ASU Musicians Showcase Creativity in Electronic Music”](https://usenate.asu.edu/asu-musicians-showcase-creativity-electronic-music) — Jan 18, 2018  
-- 2018 — *HIDA Disrupt Magazine 1* — “Digital Culture,” Arizona State University — 2018
+- 2018 — *HIDA Disrupt Magazine 1* — “Digital Culture,” Arizona State University
 
-## ASU Features - Scholarly Media for Public
+## Scholarly Media for the Public
 - 2025 — [ASU News — “How art and technology attracted this Minnesota artist to ASU”](https://news.asu.edu/20250415-how-art-and-technology-attracted-minnesota-artist-asu)  
 - 2024 — ASU Learning Sparks — [Reconsidering the Fundamentals of How We Learn Music](https://sparks.learning.asu.edu/videos/reconsidering-the-fundamentals-of-how-we-learn-music)  
 - 2024 — ASU Learning Sparks — [Symmetrizing Action and Perception](https://sparks.learning.asu.edu/videos/symmetrizing-action-and-perception)  
 - 2024 — ASU Learning Sparks — [Disruptive Technologies in the Context of Music Education](https://sparks.learning.asu.edu/videos/disruptive-technologies-in-the-context-of-music-education)  
-- 2024 — ASU Learning Sparks — [Wearable Music](https://sparks.learning.asu.edu/videos/wearable-music)  
+- 2024 — ASU Learning Sparks — [Wearable Music](https://sparks.learning.asu.edu/videos/wearable-music)
 
 ## External Features
-- 2025 — [Igloo Magazine — *Best of 2025*](https://igloomag.com/features/best-of-2025) — 2025
-- 2023 — [Electronic Sound Magazine (UK), Issue 100](https://electronicsound.co.uk/product/issue-100-pdf-edition/) — 2023  
-- 2023 — [Immersive Violin Interview (KJZZ/NPR)](https://kjzz.org/content/immersive-violin-interview) — 2023  
-- 2023 — [Wearable Music Interview (KJZZ/NPR)](https://kjzz.org/content/wearable-music-interview) — 2023  
+- 2025 — [Igloo Magazine — *Best of 2025*](https://igloomag.com/features/best-of-2025)  
+- 2023 — *Electronic Sound Magazine* (UK), Issue 100  
+- 2023 — [Immersive Violin Interview — KJZZ / NPR](https://kjzz.org/content/immersive-violin-interview)  
+- 2023 — [Wearable Music Interview — KJZZ / NPR](https://kjzz.org/content/wearable-music-interview)
 
 ## Books / Scholarly References
-- 2020 — *The Art of Digital Orchestration* (Taylor & Francis) — 2020
+- 2020 — *The Art of Digital Orchestration* — Taylor & Francis
 
 # XVII. Program Committees
 - 2026 - Program Committee Member, ICMC (International Computer Music Conference)
