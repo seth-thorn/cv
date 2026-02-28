@@ -47,9 +47,10 @@ Inventor: Seth D. Thorn et al. • Filed Aug 19, 2024 • Published Dec 12, 2024
 Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of Regents on behalf of Arizona State University
 
 # VI. Refereed Journal Articles
-- 2022 — *Wearable Technologies* • Cambridge University Press — [Collectively Playable Wearable Music: Practice-situated approaches to participatory relational inquiry](https://doi.org/10.1017/wtc.2021.19)  
+- In Press — *Possibility Studies and Society* — **Topological Mappings of Neurodiverse Learning Space and Flows** • M. Koro, C. Reutlinger, A. Vasquez, S. Thorn & M. Pivovarova  
+- 2022 — *Wearable Technologies* • Cambridge University Press — [Collectively Playable Wearable Music: Practice-situated approaches to participatory relational inquiry](https://doi.org/10.1017/wtc.2021.19) • S. D. Thorn & H. L. Willcox 
 - 2021 — *Organised Sound* • Cambridge University Press — [Flows of Inhomogeneous Matter: Improvising an augmented violin](https://www.cambridge.org/core/journals/organised-sound/article/flows-of-inhomogeneous-matter-improvising-an-augmented-violin/474B0783E1A7463F48E256ED54144598)  
-- 2019 — *Leonardo Music Journal* • MIT Press — [A Computational System for Violin: Synthesis and Dissolution in Windowless](https://doi.org/10.1162/lmj_a_01062)  
+- 2019 — *Leonardo Music Journal* • MIT Press — [A Computational System for Violin: Synthesis and Dissolution in Windowless](https://doi.org/10.1162/lmj_a_01062)
 
 # VII. Refereed Conference Publications (Long Papers)
 - 2025 — NIME — [Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping](https://nime.org/proceedings/2025/nime2025_30.pdf) • S. Thorn et al.  
