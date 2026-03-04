@@ -91,12 +91,6 @@ Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of R
 - 2020 — ISMIR First Prize (Music Performance Category)  
 - 2018 — Matera Intermedia Festival, Finalist  
 - 2018 — Guthman Musical Instrument Competition, Finalist  
-- 2024 — Inaugural Teaching Innovation Award (Peer-Selected), School of Arts, Media and Engineering, ASU  
-- 2023 — Guthman Musical Instrument Competition, Finalist  
-- 2021 — ACM Audio Mostly, Best Poster Award  
-- 2020 — ISMIR First Prize (Music Performance Category)  
-- 2018 — Matera Intermedia Festival, Finalist  
-- 2018 — Guthman Musical Instrument Competition, Finalist  
 
 # XIII. Residencies
 - 2018 — Hewnoaks Artist Colony  
