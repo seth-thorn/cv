@@ -53,7 +53,7 @@ Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of R
 - 2019 — *Leonardo Music Journal* • MIT Press — [A Computational System for Violin: Synthesis and Dissolution in Windowless](https://doi.org/10.1162/lmj_a_01062)
 
 # VII. Refereed Conference Publications (Long Papers)
-- 2025 — NIME — [Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping](https://nime.org/proceedings/2025/nime2025_30.pdf) • S. Thorn et al.  
+- 2025 — NIME — [Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping](https://nime.org/proceedings/2025/nime2025_30.pdf) • S. Thorn et al. — *Highly Commended Paper (Best Paper Awards)*
 - 2025 — ICMC 50th Anniversary, Boston MA — [Coding Modular with Max/Gen: A Eurorack System for Violin Improvisation](https://www.researchgate.net/publication/391769871_Coding_Modular_with_MaxGen_A_Eurorack_System_for_Violin_Improvisation)  
 - 2022 — NIME — [Decolonizing the Violin with Active Shoulder Rests](https://nime.org/proc/nime22_20/) • S. Thorn & B. Lahey  
 - 2020 — ACM Movement & Computing — [Processual and Experiential Design in Wearable Music Workshopping](https://doi.org/10.1145/3401956.3404235) • S. Thorn, H. Willcox, X.W. Sha  
@@ -83,6 +83,14 @@ Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of R
 - 2014 — *Qui Parle* (UC Berkeley) — Christoph Menke, [*The Aesthetic Possibility of the Work of Art*](https://read.dukeupress.edu/qui-parle/article-abstract/23/1/239/10275/The-Aesthetic-Possibility-of-the-Work-of-Art) ([JSTOR link](https://www.jstor.org/stable/10.5250/quiparle.23.1.0239))
 
 # XII. Awards & Recognition
+- 2025 — NIME (New Interfaces for Musical Expression) — *Highly Commended Paper Award*  
+  — “Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping” • S. Thorn et al.
+- 2024 — Inaugural Teaching Innovation Award (Peer-Selected), School of Arts, Media and Engineering, ASU  
+- 2023 — Guthman Musical Instrument Competition, Finalist  
+- 2021 — ACM Audio Mostly, Best Poster Award  
+- 2020 — ISMIR First Prize (Music Performance Category)  
+- 2018 — Matera Intermedia Festival, Finalist  
+- 2018 — Guthman Musical Instrument Competition, Finalist  
 - 2024 — Inaugural Teaching Innovation Award (Peer-Selected), School of Arts, Media and Engineering, ASU  
 - 2023 — Guthman Musical Instrument Competition, Finalist  
 - 2021 — ACM Audio Mostly, Best Poster Award  
