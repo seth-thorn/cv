@@ -47,7 +47,7 @@ Inventor: Seth D. Thorn et al. • Filed Aug 19, 2024 • Published Dec 12, 2024
 Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of Regents on behalf of Arizona State University
 
 # VI. Refereed Journal Articles
-- In Press — *Possibility Studies and Society* — **Topological Mappings of Neurodiverse Learning Space and Flows** • M. Koro, C. Reutlinger, A. Vasquez, S. Thorn & M. Pivovarova  
+- 2026 — *Possibility Studies and Society* — Topological Mappings of Neurodiverse Learning Space and Flows • M. Koro, C. Reutlinger, A. Vasquez, S. Thorn & M. Pivovarova
 - 2022 — *Wearable Technologies* • Cambridge University Press — [Collectively Playable Wearable Music: Practice-situated approaches to participatory relational inquiry](https://doi.org/10.1017/wtc.2021.19) • S. D. Thorn & H. L. Willcox 
 - 2021 — *Organised Sound* • Cambridge University Press — [Flows of Inhomogeneous Matter: Improvising an augmented violin](https://www.cambridge.org/core/journals/organised-sound/article/flows-of-inhomogeneous-matter-improvising-an-augmented-violin/474B0783E1A7463F48E256ED54144598)  
 - 2019 — *Leonardo Music Journal* • MIT Press — [A Computational System for Violin: Synthesis and Dissolution in Windowless](https://doi.org/10.1162/lmj_a_01062)
@@ -75,7 +75,9 @@ Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of R
 - 2019 — ACM Tangible, Embodied, and Embedded Interactions — [Composing Ecosystemically in Responsive Environments with Gestural Media, Objects, and Textures](https://doi.org/10.1145/3294109.3295660) • B. Metchley et al.
 - 2019 — ACM Movement & Computing — [Co-constructing Events in Responsive Environments](https://www.academia.edu/72508098/Co_constructing_Events_in_Responsive_Environments_Co_constructing_Events_in_Responsive_Environments) • X.W. Sha et al.
 
-# X. Refereed Panels  
+# X. Refereed Panels and Roundtables
+- 2026 — AERA Annual Meeting, Los Angeles, CA — Neurodiverse Spacetimemattering: Methodological Examples • C. Reutlinger, M. Koro, S. Thorn, M. Pivovarova, A. Vasquez & O. Herneddo *(Roundtable)*
+- 2026 — AERA Annual Meeting, Los Angeles, CA — Neurodivergent-affirmative teaching practices in the context of STEAM and beyond • C. Reutlinger, M. Pivovarova, M. Koro, S. Thorn, A. Vasquez, R. Stenson & D. Ripps *(Roundtable)*
 - 2023 — CUNY Neurodiversity Conference — [Neurodiversity as a Baseline in STEM Education Research](https://neurodiversitycenter.org/wp-content/uploads/cuny-neurodiversity-conference-2023-slides.pdf) • M. Koro et al.
 - 2022 — IEEE RESPECT (Panel) — [Partnerships Built for Equity: Neurodivergent Learners and the Use of CT](https://respect2022.stcbp.org/attendees/accepted-submissions/) • M. Koro et al.
 
