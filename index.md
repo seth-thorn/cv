@@ -27,6 +27,7 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2022 – present — Founder, Matter Squared LLC
 
 # IV. Funding
+- 2025 — Qualcomm Foundation (PI), $6,650 — Glitch'n
 - 2025 — ASU HIRBI Research Investment (PI), $8,000 — Glitch’n AI: From Musical Glitches to Hands-on Neural Computation for AI Literacy
 - 2024 — NSF AISL EAGER (PI 35%), $296,239 — [Youth-Led Community Learning: Enhancing Semiconductor Engagement through Musical Circuit Bending](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2432637)  
 - 2024 — Venture Devils Demo Day Grant, $2,375 • Matter Squared LLC  
