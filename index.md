@@ -189,6 +189,9 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2024 — ASU Learning Sparks — [Disruptive Technologies in the Context of Music Education](https://sparks.learning.asu.edu/videos/disruptive-technologies-in-the-context-of-music-education)  
 - 2024 — ASU Learning Sparks — [Wearable Music](https://sparks.learning.asu.edu/videos/wearable-music)
 
+## Media / Press / Reviews — Featured Product Coverage
+- 2026 — *The Strad* (UK) — the leading international magazine for string players, teachers, and makers — "Feel the Beat," Featured Product coverage of the ASR shoulder rest (Matter Squared LLC), New Products section, August issue
+
 ## External Features
 - 2025 — [Igloo Magazine — *Best of 2025*](https://igloomag.com/features/best-of-2025)  
 - 2023 — *Electronic Sound Magazine* (UK), Issue 100  
