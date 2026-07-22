@@ -20,7 +20,8 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2015 — MA, German Studies, Brown University  
 - 2014 — MA, Computer Music and Multimedia, Brown University  
 - 2011 — MA, Political Theory, Goethe-Universität Frankfurt am Main  
-- 2007 — BA, Philosophy, Northwestern University  
+- 2007 – 2008 — Fulbright Fellow, Philosophy, Goethe-Universität Frankfurt am Main  
+- 2007 — BA, Philosophy, Northwestern University
 
 # III. Non-Academic Positions
 - 2025 – present — Founder, Glitch Cloud Audio LLC
@@ -210,7 +211,6 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 
 # XVIII. Academic Service (Internal)
 - 2024 – present — ASU Herberger Institute Graduate Curriculum Committee  
-- 2024 – present — ASU Herberger Institute Graduate Curriculum Committee  
 - 2023 – present — Edson E+I Unit Entrepreneurship Liaison  
   - Represented the School of Music, Dance and Theatre in cross-disciplinary entrepreneurship initiatives, including [Donuts and Entrepreneurship](https://entrepreneurship.asu.edu/events/2024/04/donuts-and-entrepreneurship/) (Apr 26, 2024)  
 - 2022 – 2025 — ASU Herberger Institute Research Committee  
@@ -221,7 +221,7 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2019 — Digital Culture Summer Institute (Course Development & Teaching)  
 - 2018 — Digital Culture Summer Institute (Course Development & Teaching)  
 
-# IXX. Paper and Grant Reviewer
+# XIX. Paper and Grant Reviewer
 - 2026 — NIME (New Interfaces for Musical Expression)
 - 2026 — ICMC (International Computer Music Conference)
 - 2026 — IEEE IS2 (International Symposium on the Internet of Sounds)   
