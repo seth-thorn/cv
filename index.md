@@ -194,6 +194,7 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2026 — *The Strad* (UK) — the leading international magazine for string players, teachers, and makers — "Feel the Beat," Featured Product coverage of the ASR shoulder rest (Matter Squared LLC), New Products section, August issue
 
 ## External Features
+- 2026 — [CDM / Create Digital Music (Berlin) — “A $5 modular drum circuit, a free online course, and how it grows into more”](https://cdm.link/glitch-n-free-online/) • Peter Kirn, Aug 21, 2026 — Feature on Glitch’n, the CTRL community-educator cohort, and NSF-supported pathways into semiconductor and computing careers
 - 2025 — [Igloo Magazine — *Best of 2025*](https://igloomag.com/features/best-of-2025)  
 - 2023 — *Electronic Sound Magazine* (UK), Issue 100  
 - 2023 — [Immersive Violin Interview — KJZZ / NPR](https://kjzz.org/content/immersive-violin-interview)  
