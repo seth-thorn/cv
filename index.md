@@ -55,6 +55,7 @@ Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of R
 - 2019 — *Leonardo Music Journal* • MIT Press — [A Computational System for Violin: Synthesis and Dissolution in Windowless](https://doi.org/10.1162/lmj_a_01062)
 
 # VII. Refereed Conference Publications (Long Papers)
+- 2026 — ICLS — [From Frustration to Creativity: Exploring how Neurodiversity Affirming Learning Contexts Transform Uncertainty into Strengths](https://www.researchgate.net/publication/410953833_From_Frustration_to_Creativity_Exploring_how_Neurodiversity_Affirming_Learning_Contexts_Transform_Uncertainty_into_Strengths) • B. Akinbadewa et al.
 - 2025 — NIME — [Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping](https://nime.org/proceedings/2025/nime2025_30.pdf) • S. Thorn et al. — *Highly Commended Paper (Best Paper Awards)*
 - 2025 — ICMC 50th Anniversary, Boston MA — [Coding Modular with Max/Gen: A Eurorack System for Violin Improvisation](https://www.researchgate.net/publication/391769871_Coding_Modular_with_MaxGen_A_Eurorack_System_for_Violin_Improvisation)  
 - 2022 — NIME — [Decolonizing the Violin with Active Shoulder Rests](https://nime.org/proc/nime22_20/) • S. Thorn & B. Lahey  
