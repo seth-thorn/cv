@@ -56,7 +56,7 @@ Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of R
 
 # VII. Refereed Conference Publications (Long Papers)
 - 2026 — ICLS — [From Frustration to Creativity: Exploring how Neurodiversity Affirming Learning Contexts Transform Uncertainty into Strengths](https://www.researchgate.net/publication/410953833_From_Frustration_to_Creativity_Exploring_how_Neurodiversity_Affirming_Learning_Contexts_Transform_Uncertainty_into_Strengths) • B. Akinbadewa, C. Reutlinger, A. M. Vasquez & S. Thorn (PI) — NSF EAGER #2432637
-- 2025 — NIME — [Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping](https://nime.org/proceedings/2025/nime2025_30.pdf) • S. Thorn et al. — *Highly Commended Paper (Best Paper Awards)*
+- 2025 — NIME — [Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping](https://nime.org/proceedings/2025/nime2025_30.pdf) • S. Thorn, A. Vasquez, C. Reutlinger, M. Pivovarova & M. Koro — *Highly Commended Paper (Best Paper Awards)*
 - 2025 — ICMC 50th Anniversary, Boston MA — [Coding Modular with Max/Gen: A Eurorack System for Violin Improvisation](https://www.researchgate.net/publication/391769871_Coding_Modular_with_MaxGen_A_Eurorack_System_for_Violin_Improvisation)  
 - 2022 — NIME — [Decolonizing the Violin with Active Shoulder Rests](https://nime.org/proc/nime22_20/) • S. Thorn & B. Lahey  
 - 2020 — ACM Movement & Computing — [Processual and Experiential Design in Wearable Music Workshopping](https://doi.org/10.1145/3401956.3404235) • S. Thorn, H. Willcox, X.W. Sha  
@@ -67,7 +67,7 @@ Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of R
 # VIII. Refereed Conference Publications (Short Papers / Posters / Extended Abstracts)
 - 2025 — NIME (Music Track), Canberra, Australia — [Diffractive Constellations: A Modular System for Acoustic Violin Programmed in Max/Gen](http://nime.org/proceedings/2025/nime2025_music_9.pdf) • S. Thorn (Remote Performance)
 - 2025 — ACM Creativity & Cognition (Arts Track, Virtual / London) — [Diffractive Constellations: Activating Human-Machine Co-Creation in Violin Performance through Embedded Modular Coding](https://doi.org/10.1145/3698061.3726942)  
-- 2022 — IEEE RESPECT — Co-Design of Wearable Music Curriculum for Transversal Neurodiverse Computational Thinking • S. Thorn et al.  
+- 2022 — IEEE RESPECT — Co-Design of Wearable Music Curriculum for Transversal Neurodiverse Computational Thinking • S. Thorn, T. Wells, A. Vasquez, D. Amiot, M. Koro & X.W. Sha  
 - 2021 — ACM Audio Mostly (*Best Poster Award*) — [Telematic Wearable Music: Remote Ensembles and Inclusive Embodied Education](https://www.researchgate.net/publication/353526127_Telematic_Wearable_Music_Remote_Ensembles_and_Inclusive_Embodied_Education)  
 - 2021 — XCOAX — Machinic Intersection: Not—Yet—Chaconne  
 - 2020 — ACM Movement & Computing — Hybrid Violin Performance: Model-Free, Abductive Experiment  
@@ -75,21 +75,21 @@ Inventor: Seth D. Thorn • Issued Dec 17, 2020 • Assignee: Arizona Board of R
 - 2019 — ACM Tangible, Embodied and Embedded Interactions — [Transference: A Hybrid Computational System for Improvised Violin Performance](https://www.researchgate.net/publication/331799598_Transference_A_Hybrid_Computational_System_for_Improvised_Violin_Performance)  
 
 # IX. Refereed Workshops  
-- 2019 — ACM Tangible, Embodied, and Embedded Interactions — [Composing Ecosystemically in Responsive Environments with Gestural Media, Objects, and Textures](https://doi.org/10.1145/3294109.3295660) • B. Metchley et al.
-- 2019 — ACM Movement & Computing — [Co-constructing Events in Responsive Environments](https://www.academia.edu/72508098/Co_constructing_Events_in_Responsive_Environments_Co_constructing_Events_in_Responsive_Environments) • X.W. Sha et al.
+- 2019 — ACM Tangible, Embodied, and Embedded Interactions — [Composing Ecosystemically in Responsive Environments with Gestural Media, Objects, and Textures](https://doi.org/10.1145/3294109.3295660) • B. Mechtley, T. Ingalls, L. Hayes, J. Stein, G. Johnson, B. Lahey, J. Rajko, S. Thorn, E. Vasquez, C. Rawls, P. Weisman, A. Kidane & X.W. Sha
+- 2019 — ACM Movement & Computing — [Co-constructing Events in Responsive Environments](https://www.academia.edu/72508098/Co_constructing_Events_in_Responsive_Environments_Co_constructing_Events_in_Responsive_Environments) • X.W. Sha, J. MacCallum, T. Nacarrato, T. Ingalls, G. Johnson, L. Hayes, E. Vasquez, C. Rawls, C. Ziegler, P. Weisman, S. Thorn, A. Kidane & B. Mechtley
 
 # X. Refereed Panels and Roundtables
 - 2026 — AERA Annual Meeting, Los Angeles, CA — Neurodiverse Spacetimemattering: Methodological Examples • C. Reutlinger, M. Koro, S. Thorn, M. Pivovarova, A. Vasquez & O. Herneddo *(Roundtable)*
 - 2026 — AERA Annual Meeting, Los Angeles, CA — Neurodivergent-affirmative teaching practices in the context of STEAM and beyond • C. Reutlinger, M. Pivovarova, M. Koro, S. Thorn, A. Vasquez, R. Stenson & D. Ripps *(Roundtable)*
-- 2023 — CUNY Neurodiversity Conference — [Neurodiversity as a Baseline in STEM Education Research](https://neurodiversitycenter.org/wp-content/uploads/cuny-neurodiversity-conference-2023-slides.pdf) • M. Koro et al.
-- 2022 — IEEE RESPECT (Panel) — [Partnerships Built for Equity: Neurodivergent Learners and the Use of CT](https://respect2022.stcbp.org/attendees/accepted-submissions/) • M. Koro et al.
+- 2023 — CUNY Neurodiversity Conference — [Neurodiversity as a Baseline in STEM Education Research](https://neurodiversitycenter.org/wp-content/uploads/cuny-neurodiversity-conference-2023-slides.pdf) • M. Koro, S. Thorn, D. Amiot, C. Arcos & A. Vasquez
+- 2022 — IEEE RESPECT (Panel) — [Partnerships Built for Equity: Neurodivergent Learners and the Use of CT](https://respect2022.stcbp.org/attendees/accepted-submissions/) • M. Koro, T. Wells, S. Thorn, D. Amiot, A. Vasquez & X.W. Sha
 
 # XI. Commissioned Translations  
 - 2014 — *Qui Parle* (UC Berkeley) — Christoph Menke, [*The Aesthetic Possibility of the Work of Art*](https://read.dukeupress.edu/qui-parle/article-abstract/23/1/239/10275/The-Aesthetic-Possibility-of-the-Work-of-Art) ([JSTOR link](https://www.jstor.org/stable/10.5250/quiparle.23.1.0239))
 
 # XII. Awards & Recognition
 - 2025 — NIME (New Interfaces for Musical Expression) — *Highly Commended Paper Award*  
-  — “Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping” • S. Thorn et al.
+  — “Towards Neurodiverse Sensemaking: Pluralizing Agency in Wearable Music and Participatory Workshopping” • S. Thorn, A. Vasquez, C. Reutlinger, M. Pivovarova & M. Koro
 - 2024 — Inaugural Teaching Innovation Award (Peer-Selected), School of Arts, Media and Engineering, ASU  
 - 2023 — Guthman Musical Instrument Competition, Finalist  
 - 2021 — ACM Audio Mostly, Best Poster Award  
