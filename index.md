@@ -16,11 +16,11 @@ title: "Seth D. Thorn — Curriculum Vitae"
 - 2017 – 2018 — Faculty Associate • AME, ASU  
 
 # II. Education
-- 2018 — PhD, Computer Music and Multimedia, Brown University  
+- 2018 — PhD, Computer Music and Multimedia, Brown University
 - 2015 — MA, German Studies, Brown University  
 - 2014 — MA, Computer Music and Multimedia, Brown University  
 - 2011 — MA, Political Theory, Goethe-Universität Frankfurt am Main  
-- 2007 – 2008 — Fulbright Fellow, Philosophy, Goethe-Universität Frankfurt am Main  
+- 2007 – 2008 — Fulbright Fellow, Philosophy, Goethe-Universität Frankfurt am Main (Advisor: Werner Hamacher)
 - 2007 — BA, Philosophy, Northwestern University
 
 # III. Non-Academic Positions
