@@ -224,6 +224,7 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 - 2018 — Digital Culture Summer Institute (Course Development & Teaching)  
 
 # XIX. Paper and Grant Reviewer
+- 2026 — *Frontiers in Psychology*, Theoretical and Philosophical Psychology section — Frontiers
 - 2026 - *Journal of New Music Research* — Taylor & Francis
 - 2026 — NIME (New Interfaces for Musical Expression)
 - 2026 — ICMC (International Computer Music Conference)
