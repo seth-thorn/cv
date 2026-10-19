@@ -194,6 +194,9 @@ Programmed in Max/Gen](https://nime2025.org/assets/preprints/nime2025_music_prep
 ## Media / Press / Reviews — Featured Product Coverage
 - 2026 — *The Strad* (UK) — the leading international magazine for string players, teachers, and makers — "Feel the Beat," Featured Product coverage of the ASR shoulder rest (Matter Squared LLC), New Products section, August issue
 
+## Product Showcases & Exhibitions
+- 2026 — *Tokyo Pedal Summit 2026*, CITY HALL & GALLERY GOTANDA, Tokyo — *Haze* (Glitch Cloud Audio LLC) showcased by retailer Gizmo Music • Oct 10–11, 2026
+
 ## External Features
 - 2026 — [CDM / Create Digital Music (Berlin) — “A $5 modular drum circuit, a free online course, and how it grows into more”](https://cdm.link/glitch-n-free-online/) • Peter Kirn, Aug 21, 2026 — Feature on Glitch’n, the CTRL community-educator cohort, and NSF-supported pathways into semiconductor and computing careers
 - 2025 — [Igloo Magazine — *Best of 2025*](https://igloomag.com/features/best-of-2025)  
